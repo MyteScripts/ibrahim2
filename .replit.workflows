@@ -1,0 +1,16 @@
+<workflow>
+<name>
+Start application
+</name>
+<command>
+gunicorn --bind 0.0.0.0:5000 --reuse-port --reload main_app:app
+</command>
+</workflow>
+<workflow>
+<name>
+run_discord_bot
+</name>
+<command>
+python main.py
+</command>
+</workflow>
