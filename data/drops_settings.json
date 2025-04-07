@@ -1,0 +1,1 @@
+{"enabled": true, "interval_min": 3600, "interval_max": 5400, "drop_channels": [1342185470116761704, 1339303451640987699], "min_coins": 0, "max_coins": 100, "min_xp": 0, "max_xp": 200, "drop_duration": 120, "last_drop_time": 1744041349}

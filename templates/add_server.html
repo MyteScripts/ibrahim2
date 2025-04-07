@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Add Server{% endblock %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Add Discord Server</h2>
+            </div>
+            <div class="card-body">
+                <form method="POST" action="{{ url_for('add_server') }}">
+                    <div class="mb-3">
+                        <label for="server_id" class="form-label">Server ID</label>
+                        <input type="text" class="form-control" id="server_id" name="server_id" required>
+                        <div class="form-text">The Discord server ID (right-click on the server and select "Copy ID")</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="server_name" class="form-label">Server Name</label>
+                        <input type="text" class="form-control" id="server_name" name="server_name" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Add Server</button>
+                </form>
+            </div>
+        </div>
+        
+        <div class="card mt-4">
+            <div class="card-header">
+                <h2 class="card-title">How to find your Server ID</h2>
+            </div>
+            <div class="card-body">
+                <ol>
+                    <li>Open Discord</li>
+                    <li>Go to User Settings > Advanced and enable "Developer Mode"</li>
+                    <li>Right-click on your server icon</li>
+                    <li>Select "Copy ID" from the menu</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

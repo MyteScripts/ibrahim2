@@ -1,0 +1,20 @@
+{
+    "users": [],
+    "settings": {
+        "setting_id": 1,
+        "base_xp": 75,
+        "xp_per_level": 75,
+        "coins_per_level": 35,
+        "min_xp_per_message": 15,
+        "max_xp_per_message": 25,
+        "xp_cooldown": 60,
+        "voice_xp_per_minute": 2
+    },
+    "invites": [],
+    "mining_stats": [],
+    "mining_resources": [],
+    "mining_items": [],
+    "profiles": [],
+    "last_rank_data": {},
+    "sync_time": 1743961784
+}

@@ -1,0 +1,89 @@
+Traceback (most recent call last):
+
+  File "/app/main.py", line 5, in <module>
+
+    asyncio.run(initialize_bot())
+
+  File "/root/.nix-profile/lib/python3.12/asyncio/runners.py", line 194, in run
+
+    return runner.run(main)
+
+           ^^^^^^^^^^^^^^^^
+
+  File "/root/.nix-profile/lib/python3.12/asyncio/runners.py", line 118, in run
+
+    return self._loop.run_until_complete(task)
+
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "/root/.nix-profile/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+
+    return future.result()
+
+           ^^^^^^^^^^^^^^^
+
+  File "/app/minimal_bot.py", line 95, in initialize_bot
+
+    await setup_db_railway_sync(bot)
+
+  File "/app/db_railway_sync.py", line 785, in setup
+
+    await bot.add_cog(DBRailwaySync(bot))
+
+                      ^^^^^^^^^^^^^^^^^^
+
+  File "/app/db_railway_sync.py", line 27, in __init__
+
+    self.pg_db = PGDatabase()
+
+                 ^^^^^^^^^^^^
+
+  File "/app/pg_database.py", line 23, in __init__
+
+    raise ValueError("DATABASE_URL environment variable is required")
+
+ValueError: DATABASE_URL environment variable is required
+
+Task exception was never retrieved
+
+future: <Task finished name='Task-2' coro=<GamesCog.spawn_games_loop() done, defined at /app/games.py:82> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>
+
+Traceback (most recent call last):
+
+  File "/app/games.py", line 84, in spawn_games_loop
+
+    await self.bot.wait_until_ready()
+
+  File "/opt/venv/lib/python3.12/site-packages/discord/client.py", line 1203, in wait_until_ready
+
+    raise RuntimeError(
+
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+
+Task exception was never retrieved
+
+future: <Task finished name='discord-ext-tasks: RandomDropsCog.drop_task' coro=<Loop._loop() done, defined at /opt/venv/lib/python3.12/site-packages/discord/ext/tasks/__init__.py:207> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>
+
+Traceback (most recent call last):
+
+  File "/opt/venv/lib/python3.12/site-packages/discord/ext/tasks/__init__.py", line 209, in _loop
+
+    await self._call_loop_function('before_loop')
+
+  File "/opt/venv/lib/python3.12/site-packages/discord/ext/tasks/__init__.py", line 193, in _call_loop_function
+
+    await coro(self._injected, *args, **kwargs)
+
+  File "/app/random_drops.py", line 116, in before_drop_task
+
+    await self.bot.wait_until_ready()
+
+  File "/opt/venv/lib/python3.12/site-packages/discord/client.py", line 1203, in wait_until_ready
+
+    raise RuntimeError(
+
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+
+Task exception was never retrieved
+
+future: <Task finished name='discord-ext-tasks: GiveawaySystem.check_giveaways' coro=<Loop._loop() done, defined at /opt/venv/lib/python3.12/site-packages/discord/ext/tasks/__init__.py:207> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>

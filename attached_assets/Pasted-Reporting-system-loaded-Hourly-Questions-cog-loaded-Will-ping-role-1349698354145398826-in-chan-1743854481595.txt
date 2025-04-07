@@ -1,0 +1,74 @@
+Reporting system loaded!
+✓ Hourly Questions cog loaded - Will ping role 1349698354145398826 in channel 1339809561594298448
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 5, in <module>
+    asyncio.run(initialize_bot())
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/minimal_bot.py", line 95, in initialize_bot
+    await setup_db_railway_sync(bot)
+  File "/home/runner/workspace/db_railway_sync.py", line 785, in setup
+    await bot.add_cog(DBRailwaySync(bot))
+                      ^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/db_railway_sync.py", line 27, in __init__
+    self.pg_db = PGDatabase()
+                 ^^^^^^^^^^^^
+  File "/home/runner/workspace/pg_database.py", line 27, in __init__
+    self._create_tables()
+  File "/home/runner/workspace/pg_database.py", line 92, in _create_tables
+    cursor.execute('''
+psycopg2.errors.SyntaxError: syntax error at or near "left"
+LINE 6:                     left INTEGER DEFAULT 0,
+                            ^
+
+Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<GamesCog.spawn_games_loop() done, defined at /home/runner/workspace/games.py:82> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/games.py", line 84, in spawn_games_loop
+    await self.bot.wait_until_ready()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 1203, in wait_until_ready
+    raise RuntimeError(
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+Task exception was never retrieved
+future: <Task finished name='discord-ext-tasks: RandomDropsCog.drop_task' coro=<Loop._loop() done, defined at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py:207> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 209, in _loop
+    await self._call_loop_function('before_loop')
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 193, in _call_loop_function
+    await coro(self._injected, *args, **kwargs)
+  File "/home/runner/workspace/random_drops.py", line 116, in before_drop_task
+    await self.bot.wait_until_ready()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 1203, in wait_until_ready
+    raise RuntimeError(
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+Task exception was never retrieved
+future: <Task finished name='discord-ext-tasks: GiveawaySystem.check_giveaways' coro=<Loop._loop() done, defined at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py:207> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 209, in _loop
+    await self._call_loop_function('before_loop')
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 193, in _call_loop_function
+    await coro(self._injected, *args, **kwargs)
+  File "/home/runner/workspace/giveaway_system.py", line 627, in before_check_giveaways
+    await self.bot.wait_until_ready()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 1203, in wait_until_ready
+    raise RuntimeError(
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+Task exception was never retrieved
+future: <Task finished name='discord-ext-tasks: HourlyQuestionsCog.hourly_questions' coro=<Loop._loop() done, defined at /home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py:207> exception=RuntimeError('Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method')>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 209, in _loop
+    await self._call_loop_function('before_loop')
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 193, in _call_loop_function
+    await coro(self._injected, *args, **kwargs)
+  File "/home/runner/workspace/hourly_questions.py", line 372, in before_hourly_questions
+    await self.bot.wait_until_ready()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 1203, in wait_until_ready
+    raise RuntimeError(
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method

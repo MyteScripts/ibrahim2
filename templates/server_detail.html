@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block title %}{{ server.name }}{% endblock %}
+
+{% block content %}
+<div class="row mb-4">
+    <div class="col-md-12">
+        <h1>{{ server.name }}</h1>
+        <p class="text-muted">Server ID: {{ server.id }}</p>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="stats-box">
+            <h4>Total Messages</h4>
+            <p class="display-4">{{ members|sum(attribute='message_count') }}</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="stats-box">
+            <h4>Active Members</h4>
+            <p class="display-4">{{ members|length }}</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="stats-box">
+            <h4>Average Messages</h4>
+            <p class="display-4">
+                {% if members|length > 0 %}
+                    {{ (members|sum(attribute='message_count') / members|length)|int }}
+                {% else %}
+                    0
+                {% endif %}
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h2>Member Leaderboard</h2>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Username</th>
+                                <th>Messages</th>
+                                <th>Last Active</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for member in members %}
+                            <tr>
+                                <td>{{ loop.index }}</td>
+                                <td>{{ member.username }}</td>
+                                <td class="message-count">{{ member.message_count }}</td>
+                                <td>{{ member.last_active.strftime('%Y-%m-%d %H:%M') if member.last_active else 'N/A' }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <h2>Bot Integration</h2>
+            </div>
+            <div class="card-body">
+                <h5>Add the Discord bot to your server</h5>
+                <p>To track messages, you need to add our Discord bot to your server and set up the following:</p>
+                
+                <div class="mb-3">
+                    <h6>1. Add the bot to your server</h6>
+                    <a href="#" class="btn btn-primary">Add Bot to Server</a>
+                </div>
+                
+                <div class="mb-3">
+                    <h6>2. Configure your Discord bot with these settings:</h6>
+                    <div class="bg-dark p-3 rounded">
+                        <code>
+                            SERVER_ID={{ server.id }}<br>
+                            API_ENDPOINT={{ request.host_url }}api/update_message_count<br>
+                            API_KEY=your_api_key_here
+                        </code>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

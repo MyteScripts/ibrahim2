@@ -1,0 +1,181 @@
+2025-04-06 18:19:47,126 - main - INFO - Starting Discord bot...
+2025-04-06 18:19:47,130 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-04-06 18:19:47,130 - minimal_bot - INFO - Loading cogs for 88 commands...
+2025-04-06 18:19:47,131 - permissions - INFO - Permissions cog loaded
+2025-04-06 18:19:47,132 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,132 - leveling - INFO - Leveling system initialized
+2025-04-06 18:19:47,132 - leveling - INFO - Leveling cog loaded
+2025-04-06 18:19:47,134 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,137 - investment_system - INFO - Loaded investment data for 5 users
+2025-04-06 18:19:47,137 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,138 - investment_system - INFO - Investment cog initialized
+2025-04-06 18:19:47,138 - investment_system - INFO - Investment cog loaded
+2025-04-06 18:19:47,138 - investment_system - INFO - Investment cog added to bot
+2025-04-06 18:19:47,138 - mining - INFO - Mining database tables initialized
+2025-04-06 18:19:47,138 - mining - INFO - Mining cog loaded
+2025-04-06 18:19:47,139 - chat_activity - INFO - Activity database tables created
+2025-04-06 18:19:47,139 - chat_activity - INFO - Chat activity cog initialized
+2025-04-06 18:19:47,139 - chat_activity - INFO - Chat activity cog loaded
+2025-04-06 18:19:47,140 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,140 - work - INFO - Work cog loaded
+2025-04-06 18:19:47,141 - gamevote - INFO - Game vote database tables created
+2025-04-06 18:19:47,141 - gamevote - INFO - Game Vote cog initialized
+2025-04-06 18:19:47,141 - gamevote - INFO - No active game votes found in database
+2025-04-06 18:19:47,141 - gamevote - INFO - Game Vote cog loaded
+2025-04-06 18:19:47,141 - level_roles - INFO - Starting Level Roles cog setup
+2025-04-06 18:19:47,142 - level_roles - INFO - Level Roles cog initialized
+2025-04-06 18:19:47,142 - level_roles - INFO - Level Roles cog added to bot
+2025-04-06 18:19:47,142 - level_roles - INFO - LevelingCog found - level up events will be processed
+2025-04-06 18:19:47,142 - level_roles - INFO - Level Roles cog loaded
+2025-04-06 18:19:47,143 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,143 - event_system - INFO - Loaded event settings from file
+2025-04-06 18:19:47,143 - event_system - INFO - Event system initialized
+2025-04-06 18:19:47,143 - event_system - INFO - Event system cog loaded
+2025-04-06 18:19:47,144 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,144 - random_drops - INFO - Random drops cog loaded
+2025-04-06 18:19:47,145 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,146 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,146 - shop_system - INFO - Loaded shop configuration. Notification channel: 1352717796336996422
+2025-04-06 18:19:47,146 - shop_system - INFO - Shop cog loaded
+2025-04-06 18:19:47,147 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,176 - database_handler - INFO - Using PostgreSQL database
+2025-04-06 18:19:47,326 - pg_database - INFO - Connected to PostgreSQL database
+2025-04-06 18:19:47,543 - pg_database - INFO - PostgreSQL database initialized
+2025-04-06 18:19:47,563 - profile_system - INFO - Loaded 0 profiles from PostgreSQL database
+2025-04-06 18:19:47,564 - profile_system - INFO - Profile system cog loaded
+2025-04-06 18:19:47,565 - database - INFO - Database initialized at data/leveling.db
+2025-04-06 18:19:47,566 - tournaments - INFO - Loaded 7 active tournaments
+2025-04-06 18:19:47,566 - tournaments - INFO - Loaded 1 game votes
+2025-04-06 18:19:47,567 - tournaments - INFO - Tournament cog loaded
+2025-04-06 18:19:47,567 - giveaway_system - INFO - Loaded 0 active giveaways
+2025-04-06 18:19:47,567 - giveaway_system - INFO - Giveaway system cog loaded
+2025-04-06 18:19:47,567 - mass_messaging - INFO - Mass Messaging cog initialized
+2025-04-06 18:19:47,567 - mass_messaging - INFO - Mass Messaging cog loaded
+2025-04-06 18:19:47,568 - reporting - INFO - Report channel set to: 1356731160704716991
+Reporting system loaded!
+2025-04-06 18:19:47,569 - hourly_questions - INFO - Setting up Hourly Questions cog...
+2025-04-06 18:19:47,569 - hourly_questions - INFO - Hourly Questions setup - Logger check passed
+2025-04-06 18:19:47,569 - hourly_questions - INFO - Loaded next question time: 2025-04-06 19:00:02.673676
+2025-04-06 18:19:47,569 - hourly_questions - INFO - Hourly Questions cog loaded successfully - Target channel: 1339809561594298448, Role to ping: 1349698354145398826
+✓ Hourly Questions cog loaded - Will ping role 1349698354145398826 in channel 1339809561594298448
+Database Export cog loaded!
+2025-04-06 18:19:47,569 - minimal_bot - INFO - Database export cog loaded
+2025-04-06 18:19:47,569 - minimal_bot - INFO - Attempting to connect to Discord...
+2025-04-06 18:19:47,570 - discord.client - INFO - logging in using static token
+2025-04-06 18:19:48,137 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b07f4433e3cc3d6952530e992ba92d40).
+2025-04-06 18:19:50,171 - hourly_questions - INFO - Hourly questions task is ready to begin...
+2025-04-06 18:19:50,171 - hourly_questions - INFO - Scheduling next question for 2025-04-06 19:00:02 (in 2413 seconds)
+2025-04-06 18:19:50,171 - hourly_questions - INFO - Resuming hourly questions from saved time: 2025-04-06 19:00:02.673676
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Bot connected as GridBot (ID: 1352590543988854885)
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Connected to 2 guilds
+🔄 USERNAME CHANGE: Current bot username is 'GridBot'
+🔄 USERNAME CHANGE: Attempting to change to 'GridBot'...
+✅ USERNAME CHANGE: Bot name is already 'GridBot'
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Commands registered in the command tree:
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: permissionspanel
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: setpublic
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: removepublic
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: rank
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: editleveling
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: xpstop
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: xpstart
+2025-04-06 18:19:50,172 - minimal_bot - INFO - Command: leaderboard
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: addlevel
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: removelevel
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: addcoin
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: removecoin
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: ban
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: kick
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: mute
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: unmute
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: warn
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: warnings
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: clearwarnings
+2025-04-06 18:19:50,173 - minimal_bot - INFO - Command: channellock
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: channelunlock
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: setlogchannel
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: givepermission
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: hourlyincome
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: reset_properties
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: mine
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: balance
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: upgrade
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: sell
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: mining_shop
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: mining_buy
+2025-04-06 18:19:50,174 - minimal_bot - INFO - Command: prestige
+2025-04-06 18:19:50,175 - minimal_bot - INFO - Command: lb
+2025-04-06 18:19:50,175 - minimal_bot - INFO - Command: chatactivity
+2025-04-06 18:19:50,175 - minimal_bot - INFO - Command: activityleaderboard
+2025-04-06 18:19:50,175 - minimal_bot - INFO - Command: work
+2025-04-06 18:19:50,176 - minimal_bot - INFO - Command: removegamechannel
+2025-04-06 18:19:50,176 - minimal_bot - INFO - Command: listgamechannels
+2025-04-06 18:19:50,176 - minimal_bot - INFO - Command: forcegame
+2025-04-06 18:19:50,176 - minimal_bot - INFO - Command: gamevote
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: updateroles
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: resetroles
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: fixallroles
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: announcements
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: addannouncement
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: howto
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: addhowto
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: removehowto
+2025-04-06 18:19:50,177 - minimal_bot - INFO - Command: listhowto
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: server_events
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: xpleaderboard
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: drops_config
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: force_drop
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: shop
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: setshopnotificationchannel
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: profile
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: setbio
+2025-04-06 18:19:50,178 - minimal_bot - INFO - Command: setstance
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: settimezone
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: setlanguages
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: setannouncementpreferences
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: createtournament
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: tournament
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: managetournament
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: jointournament
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: leavetournament
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: giveaway
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: endgiveaway
+2025-04-06 18:19:50,179 - minimal_bot - INFO - Command: cancelgiveaway
+2025-04-06 18:19:50,180 - minimal_bot - INFO - Command: listgiveaways
+2025-04-06 18:19:50,180 - minimal_bot - INFO - Command: rerollgiveaway
+2025-04-06 18:19:50,180 - minimal_bot - INFO - Command: sendtoall
+2025-04-06 18:19:50,180 - minimal_bot - INFO - Command: report
+2025-04-06 18:19:50,180 - minimal_bot - INFO - Command: ask_question
+2025-04-06 18:19:50,180 - minimal_bot - INFO - Command: dbsend
+2025-04-06 18:19:50,182 - moderation - INFO - Started expired actions check loop
+2025-04-06 18:19:50,182 - investment_system - INFO - Started property updater background task
+2025-04-06 18:19:50,182 - investment_system - INFO - Started property updater from on_ready
+2025-04-06 18:19:50,182 - chat_activity - INFO - Bot is ready - resuming any active chat activity events
+2025-04-06 18:19:50,182 - chat_activity - INFO - No active chat activity event to resume
+2025-04-06 18:19:50,182 - gamevote - INFO - Bot is ready - resuming any active votes
+2025-04-06 18:19:50,183 - gamevote - INFO - No active game votes found in database
+2025-04-06 18:19:50,183 - level_roles - WARNING - Some level roles were not found in guild 🍀 GrowWin 🍀: ID: 1339331106557657089 (Level 5), ID: 1339332632860950589 (Level 10), ID: 1339333949201186878 (Level 15), ID: 1339571891848876075 (Level 20), ID: 1339572201430454272 (Level 25), ID: 1339572204433838142 (Level 30), ID: 1339572206895894602 (Level 35), ID: 1339572209848680458 (Level 40), ID: 1339572212285575199 (Level 45), ID: 1339572214881714176 (Level 50), ID: 1339574559136944240 (Level 55), ID: 1339574564685873245 (Level 60), ID: 1339574564983804018 (Level 65), ID: 1339574565780590632 (Level 70), ID: 1339574566669783180 (Level 75), ID: 1339574568276332564 (Level 80), ID: 1339574568586842112 (Level 85), ID: 1339574569417048085 (Level 90), ID: 1339576526458322954 (Level 95), ID: 1339576529377820733 (Level 100)
+2025-04-06 18:19:50,183 - level_roles - INFO - Verified 0 level roles in guild 🍀 GrowWin 🍀
+2025-04-06 18:19:50,183 - level_roles - INFO - Verified 20 level roles in guild The Grid
+2025-04-06 18:19:50,183 - giveaway_system - INFO - Added persistent views for giveaway system
+2025-04-06 18:19:50,184 - discord.ext.tasks - ERROR - Unhandled exception in internal background task 'drop_task'.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ext/tasks/__init__.py", line 246, in _loop
+    await self.coro(*args, **kwargs)
+  File "/home/runner/workspace/random_drops.py", line 102, in drop_task
+    chance = (time_since_last - interval_min) / (interval_max - interval_min)
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2025-04-06 18:19:50,185 - hourly_questions - INFO - Hourly questions task initialized
+2025-04-06 18:19:50,185 - investment_system - INFO - Property updater task started
+2025-04-06 18:19:50,185 - investment_system - INFO - Running initial update to account for offline time...
+2025-04-06 18:19:50,185 - investment_system - INFO - Starting property update process...
+2025-04-06 18:19:50,186 - investment_system - INFO - Property update complete: 10 properties for 5 users
+2025-04-06 18:19:50,186 - investment_system - INFO - Added 0.00 coins total, processed 0.00 total hours
+2025-04-06 18:19:50,189 - investment_system - INFO - Saved investment data for 5 users
+2025-04-06 18:19:50,190 - investment_system - INFO - Initial update complete: 0 users updated, 0.00 total income added
+2025-04-06 18:19:50,715 - investment_system - INFO - Sent maintenance reminder to user 1308527904497340467
+2025-04-06 18:19:51,214 - investment_system - INFO - Sent maintenance reminder to user 706310256954966086
+2025-04-06 18:19:51,687 - investment_system - INFO - Sent maintenance reminder to user 992009691578236959
+2025-04-06 18:19:52,138 - investment_system - INFO - Sent maintenance reminder to user 1035842144511987732
+2025-04-06 18:19:52,621 - investment_system - INFO - Sent maintenance reminder to user 1063511383397892256

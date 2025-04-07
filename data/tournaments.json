@@ -1,0 +1,611 @@
+{
+    "tournament_1743512743": {
+        "id": "tournament_1743512743",
+        "channel_id": "1350885801134915664",
+        "creator_id": "1308527904497340467",
+        "game": "roblox",
+        "max_participants": 10,
+        "start_time": "2025-05-15T18:20:00",
+        "team_count": 2,
+        "players_per_team": 5,
+        "prize": "10",
+        "participants": [
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-01T13:05:49.380712"
+            }
+        ],
+        "teams": [],
+        "brackets": [],
+        "status": "recruiting",
+        "created_at": "2025-04-01T13:05:43.451241",
+        "message_id": "1356615515279458516"
+    },
+    "jw8vs": {
+        "id": "jw8vs",
+        "channel_id": "1350885801134915664",
+        "creator_id": "1308527904497340467",
+        "game": "roblox",
+        "max_participants": 10,
+        "start_time": "2025-08-15T05:00:00",
+        "team_count": 2,
+        "players_per_team": 5,
+        "prize": "10",
+        "participants": [],
+        "teams": [],
+        "brackets": [],
+        "status": "recruiting",
+        "created_at": "2025-04-01T13:21:35.409315",
+        "message_id": "1356619508084903976"
+    },
+    "72y8x": {
+        "id": "72y8x",
+        "channel_id": "1348631237409116280",
+        "creator_id": "1308527904497340467",
+        "game": "test",
+        "max_participants": 2,
+        "start_time": "2025-04-01T06:00:00",
+        "team_count": 2,
+        "players_per_team": 1,
+        "prize": "1dl",
+        "participants": [
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-01T14:56:14.989427"
+            },
+            {
+                "id": "926118677395406888",
+                "username": "eruic",
+                "joined_at": "2025-04-01T14:56:31.432643"
+            }
+        ],
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team 1",
+                "members": [
+                    {
+                        "id": "1308527904497340467",
+                        "username": "CroWic",
+                        "joined_at": "2025-04-01T14:56:14.989427"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 2,
+                "name": "Team 2",
+                "members": [
+                    {
+                        "id": "926118677395406888",
+                        "username": "eruic",
+                        "joined_at": "2025-04-01T14:56:31.432643"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            }
+        ],
+        "brackets": [
+            {
+                "match_id": 1,
+                "round": 1,
+                "team1_id": 1,
+                "team2_id": 2,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            }
+        ],
+        "status": "in_progress",
+        "created_at": "2025-04-01T14:56:11.199664",
+        "message_id": "1356643314375463023"
+    },
+    "0a20s": {
+        "id": "0a20s",
+        "channel_id": "1348631237409116280",
+        "creator_id": "1308527904497340467",
+        "game": "rooee",
+        "max_participants": 2,
+        "start_time": "2025-04-01T06:05:00",
+        "team_count": 2,
+        "players_per_team": 1,
+        "prize": "1",
+        "participants": [
+            {
+                "id": "926118677395406888",
+                "username": "eruic",
+                "joined_at": "2025-04-01T14:59:30.889896"
+            },
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-01T14:59:27.835242"
+            }
+        ],
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team 1",
+                "members": [
+                    {
+                        "id": "926118677395406888",
+                        "username": "eruic",
+                        "joined_at": "2025-04-01T14:59:30.889896"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 2,
+                "name": "Team 2",
+                "members": [
+                    {
+                        "id": "1308527904497340467",
+                        "username": "CroWic",
+                        "joined_at": "2025-04-01T14:59:27.835242"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            }
+        ],
+        "brackets": [
+            {
+                "match_id": 1,
+                "round": 1,
+                "team1_id": 1,
+                "team2_id": 2,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            }
+        ],
+        "status": "in_progress",
+        "created_at": "2025-04-01T14:59:24.906590",
+        "message_id": "1356644126543581466"
+    },
+    "hb4r2": {
+        "id": "hb4r2",
+        "channel_id": "1348631237409116280",
+        "creator_id": "1308527904497340467",
+        "game": "wowi",
+        "max_participants": 2,
+        "start_time": "2025-04-01T06:05:00",
+        "team_count": 2,
+        "players_per_team": 1,
+        "prize": "1",
+        "participants": [
+            {
+                "id": "838022705810112533",
+                "username": "kizzy",
+                "joined_at": "2025-04-01T15:01:23.821661"
+            },
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-01T15:01:21.273939"
+            }
+        ],
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team 1",
+                "members": [
+                    {
+                        "id": "838022705810112533",
+                        "username": "kizzy",
+                        "joined_at": "2025-04-01T15:01:23.821661"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 2,
+                "name": "Team 2",
+                "members": [
+                    {
+                        "id": "1308527904497340467",
+                        "username": "CroWic",
+                        "joined_at": "2025-04-01T15:01:21.273939"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            }
+        ],
+        "brackets": [
+            {
+                "match_id": 1,
+                "round": 1,
+                "team1_id": 2,
+                "team2_id": 1,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            }
+        ],
+        "status": "in_progress",
+        "created_at": "2025-04-01T15:01:19.737148",
+        "message_id": "1356644608192282694"
+    },
+    "0lj2v": {
+        "id": "0lj2v",
+        "channel_id": "1348631237409116280",
+        "creator_id": "1308527904497340467",
+        "game": "2owow",
+        "max_participants": 4,
+        "start_time": "2025-04-01T06:05:00",
+        "team_count": 2,
+        "players_per_team": 2,
+        "prize": "1010",
+        "participants": [
+            {
+                "id": "968934569090887711",
+                "username": "Vorfahr / \ud83c\uddf9\ud83c\uddf7",
+                "joined_at": "2025-04-01T15:05:00.564544"
+            },
+            {
+                "id": "838022705810112533",
+                "username": "kizzy",
+                "joined_at": "2025-04-01T15:04:10.526604"
+            },
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-01T15:03:59.405320"
+            },
+            {
+                "id": "926118677395406888",
+                "username": "eruic",
+                "joined_at": "2025-04-01T15:04:30.451858"
+            }
+        ],
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team 1",
+                "members": [
+                    {
+                        "id": "968934569090887711",
+                        "username": "Vorfahr / \ud83c\uddf9\ud83c\uddf7",
+                        "joined_at": "2025-04-01T15:05:00.564544"
+                    },
+                    {
+                        "id": "838022705810112533",
+                        "username": "kizzy",
+                        "joined_at": "2025-04-01T15:04:10.526604"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 2,
+                "name": "Team 2",
+                "members": [
+                    {
+                        "id": "1308527904497340467",
+                        "username": "CroWic",
+                        "joined_at": "2025-04-01T15:03:59.405320"
+                    },
+                    {
+                        "id": "926118677395406888",
+                        "username": "eruic",
+                        "joined_at": "2025-04-01T15:04:30.451858"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            }
+        ],
+        "brackets": [
+            {
+                "match_id": 1,
+                "round": 1,
+                "team1_id": 1,
+                "team2_id": 2,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            }
+        ],
+        "status": "in_progress",
+        "created_at": "2025-04-01T15:03:55.375152",
+        "message_id": "1356645260968857630"
+    },
+    "vzwsv": {
+        "id": "vzwsv",
+        "channel_id": "1350885801134915664",
+        "creator_id": "1308527904497340467",
+        "game": "wiwi",
+        "max_participants": 1,
+        "start_time": "2025-04-01T15:17:20.302580",
+        "team_count": 1,
+        "players_per_team": 1,
+        "prize": "1",
+        "participants": [
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-01T15:16:22.567652"
+            }
+        ],
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team 1",
+                "members": [
+                    {
+                        "id": "1308527904497340467",
+                        "username": "CroWic",
+                        "joined_at": "2025-04-01T15:16:22.567652"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            }
+        ],
+        "brackets": [],
+        "status": "team_formation",
+        "created_at": "2025-04-01T15:16:20.302622",
+        "message_id": "1356648385469350112"
+    },
+    "jn07d": {
+        "id": "jn07d",
+        "channel_id": "1348631237409116280",
+        "creator_id": "1308527904497340467",
+        "game": "Brawl Stars",
+        "max_participants": 2,
+        "start_time": "2025-04-06T18:55:31.972604",
+        "team_count": 2,
+        "players_per_team": 1,
+        "prize": "ejww",
+        "participants": [
+            {
+                "id": "1308527904497340467",
+                "username": "CroWic",
+                "joined_at": "2025-04-06T18:53:34.376428"
+            }
+        ],
+        "teams": [],
+        "brackets": [],
+        "status": "recruiting",
+        "created_at": "2025-04-06T18:53:31.972654",
+        "message_id": "1358514983486488587"
+    },
+    "b4kn8": {
+        "id": "b4kn8",
+        "channel_id": "1351296718259486780",
+        "creator_id": "1308527904497340467",
+        "game": "Brawl Stars",
+        "max_participants": 12,
+        "start_time": "2025-04-06T19:41:07.871558",
+        "team_count": 4,
+        "players_per_team": 3,
+        "prize": "10Dls Ech",
+        "participants": [
+            {
+                "id": "478296965340201012",
+                "username": "Shark Foreskin",
+                "joined_at": "2025-04-06T19:16:38.143552"
+            },
+            {
+                "id": "1032708104053334147",
+                "username": "! m\u00e3e | ILYYYYY :3!!",
+                "joined_at": "2025-04-06T19:12:23.381765"
+            },
+            {
+                "id": "1058521654579449886",
+                "username": "fernando | Musiala fanboy",
+                "joined_at": "2025-04-06T19:13:32.972509"
+            },
+            {
+                "id": "1144701419803381800",
+                "username": "davax",
+                "joined_at": "2025-04-06T19:38:25.059695"
+            },
+            {
+                "id": "1154811710574710858",
+                "username": "SAIPR",
+                "joined_at": "2025-04-06T19:11:52.020449"
+            },
+            {
+                "id": "738822910839357492",
+                "username": "Bored",
+                "joined_at": "2025-04-06T19:12:41.468407"
+            },
+            {
+                "id": "1117069968111042580",
+                "username": "Cole Palmer #20",
+                "joined_at": "2025-04-06T19:13:49.681127"
+            },
+            {
+                "id": "702070027343626270",
+                "username": "SSW",
+                "joined_at": "2025-04-06T19:43:55.649892"
+            },
+            {
+                "id": "1150395006226534433",
+                "username": "sowlo",
+                "joined_at": "2025-04-06T19:11:24.647041"
+            },
+            {
+                "id": "1063902156811403294",
+                "username": "Bytez",
+                "joined_at": "2025-04-06T19:44:43.256787"
+            },
+            {
+                "id": "1353590720685936680",
+                "username": "! Fazy | lmk if you need me:)",
+                "joined_at": "2025-04-06T19:11:41.432476"
+            },
+            {
+                "id": "1333477977085710429",
+                "username": "Zac | RAH | @ For Help",
+                "joined_at": "2025-04-06T19:15:11.382451"
+            }
+        ],
+        "teams": [
+            {
+                "id": 1,
+                "name": "Team 1",
+                "members": [
+                    {
+                        "id": "478296965340201012",
+                        "username": "Shark Foreskin",
+                        "joined_at": "2025-04-06T19:16:38.143552"
+                    },
+                    {
+                        "id": "1032708104053334147",
+                        "username": "! m\u00e3e | ILYYYYY :3!!",
+                        "joined_at": "2025-04-06T19:12:23.381765"
+                    },
+                    {
+                        "id": "1058521654579449886",
+                        "username": "fernando | Musiala fanboy",
+                        "joined_at": "2025-04-06T19:13:32.972509"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 2,
+                "name": "Team 2",
+                "members": [
+                    {
+                        "id": "1144701419803381800",
+                        "username": "davax",
+                        "joined_at": "2025-04-06T19:38:25.059695"
+                    },
+                    {
+                        "id": "1154811710574710858",
+                        "username": "SAIPR",
+                        "joined_at": "2025-04-06T19:11:52.020449"
+                    },
+                    {
+                        "id": "738822910839357492",
+                        "username": "Bored",
+                        "joined_at": "2025-04-06T19:12:41.468407"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 3,
+                "name": "Team 3",
+                "members": [
+                    {
+                        "id": "1117069968111042580",
+                        "username": "Cole Palmer #20",
+                        "joined_at": "2025-04-06T19:13:49.681127"
+                    },
+                    {
+                        "id": "702070027343626270",
+                        "username": "SSW",
+                        "joined_at": "2025-04-06T19:43:55.649892"
+                    },
+                    {
+                        "id": "1150395006226534433",
+                        "username": "sowlo",
+                        "joined_at": "2025-04-06T19:11:24.647041"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            },
+            {
+                "id": 4,
+                "name": "Team 4",
+                "members": [
+                    {
+                        "id": "1063902156811403294",
+                        "username": "Bytez",
+                        "joined_at": "2025-04-06T19:44:43.256787"
+                    },
+                    {
+                        "id": "1353590720685936680",
+                        "username": "! Fazy | lmk if you need me:)",
+                        "joined_at": "2025-04-06T19:11:41.432476"
+                    },
+                    {
+                        "id": "1333477977085710429",
+                        "username": "Zac | RAH | @ For Help",
+                        "joined_at": "2025-04-06T19:15:11.382451"
+                    }
+                ],
+                "wins": 0,
+                "losses": 0
+            }
+        ],
+        "brackets": [
+            {
+                "match_id": 1,
+                "round": 1,
+                "team1_id": 4,
+                "team2_id": 1,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            },
+            {
+                "match_id": 2,
+                "round": 1,
+                "team1_id": 3,
+                "team2_id": 2,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            },
+            {
+                "match_id": 3,
+                "round": 2,
+                "team1_id": null,
+                "team2_id": null,
+                "team1_from_match": 1,
+                "team2_from_match": 2,
+                "winner_id": null,
+                "loser_id": null,
+                "score": {
+                    "team1": 0,
+                    "team2": 0
+                },
+                "status": "pending"
+            }
+        ],
+        "status": "in_progress",
+        "created_at": "2025-04-06T19:11:07.871599",
+        "message_id": "1358519412461928648"
+    }
+}

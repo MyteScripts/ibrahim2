@@ -1,0 +1,57 @@
+not found! Database sync features will be disabled.
+2025-04-07 10:10:46,781 - main - WARNING - The bot will still function normally, but automated database synchronization will not be available.
+2025-04-07 10:10:46,781 - main - WARNING - To enable database sync, please set up the DATABASE_URL environment variable.
+2025-04-07 10:10:46,801 - profile_system - ERROR - Error loading profiles: Extra data: line 1 column 5 (char 4)
+Traceback (most recent call last):
+  File "/home/runner/workspace/profile_system.py", line 123, in load_profiles
+    'preferred_languages': json.loads(row[5]) if row[5] else [],
+                           ^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 5 (char 4)
+Reporting system loaded!
+✓ Hourly Questions cog loaded - Will ping role 1349698354145398826 in channel 1339809561594298448
+Database Export cog loaded!
+🔄 USERNAME CHANGE: Current bot username is 'GridBot'
+🔄 USERNAME CHANGE: Attempting to change to 'GridBot'...
+✅ USERNAME CHANGE: Bot name is already 'GridBot'
+2025-04-07 10:10:49,573 - level_roles - WARNING - Some level roles were not found in guild 🍀 GrowWin 🍀: ID: 1339331106557657089 (Level 5), ID: 1339332632860950589 (Level 10), ID: 1339333949201186878 (Level 15), ID: 1339571891848876075 (Level 20), ID: 1339572201430454272 (Level 25), ID: 1339572204433838142 (Level 30), ID: 1339572206895894602 (Level 35), ID: 1339572209848680458 (Level 40), ID: 1339572212285575199 (Level 45), ID: 1339572214881714176 (Level 50), ID: 1339574559136944240 (Level 55), ID: 1339574564685873245 (Level 60), ID: 1339574564983804018 (Level 65), ID: 1339574565780590632 (Level 70), ID: 1339574566669783180 (Level 75), ID: 1339574568276332564 (Level 80), ID: 1339574568586842112 (Level 85), ID: 1339574569417048085 (Level 90), ID: 1339576526458322954 (Level 95), ID: 1339576529377820733 (Level 100)
+Synced 79 total command(s) across 2 guild(s)
+Bot is online as GridBot
+^CTraceback (most recent call last):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/minimal_bot.py", line 171, in initialize_bot
+    await bot.start(TOKEN)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 824, in start
+    await self.connect(reconnect=reconnect)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/client.py", line 704, in connect
+    await self.ws.poll_event()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/gateway.py", line 623, in poll_event
+    msg = await self.socket.receive(timeout=self._max_heartbeat_timeout)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiohttp/client_ws.py", line 334, in receive
+    msg = await self._reader.read()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "aiohttp/_websocket/reader_c.py", line 113, in read
+  File "aiohttp/_websocket/reader_c.py", line 110, in aiohttp._websocket.reader_c.WebSocketDataQueue.read
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 19, in <module>
+    asyncio.run(initialize_bot())
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/asyncio/runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

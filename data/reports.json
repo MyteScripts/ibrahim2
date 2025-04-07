@@ -1,0 +1,87 @@
+{
+    "reports": [
+        {
+            "report_id": 1,
+            "reporter_id": "1308527904497340467",
+            "reporter_name": "CroWic",
+            "reported_user_id": "1308527904497340467",
+            "reported_user_name": "CroWic",
+            "reason": "test",
+            "server_id": "1338482540348182588",
+            "server_name": "The Grid",
+            "timestamp": "2025-04-01T20:50:34.935461",
+            "status": "pending"
+        },
+        {
+            "report_id": 2,
+            "reporter_id": "1058521654579449886",
+            "reporter_name": "fernando | Musiala fanboy",
+            "reported_user_id": "479711321399623681",
+            "reported_user_name": "IBRAHIM",
+            "reason": "not checking dms",
+            "server_id": "1338482540348182588",
+            "server_name": "The Grid",
+            "timestamp": "2025-04-01T20:52:43.420317",
+            "status": "pending"
+        },
+        {
+            "report_id": 3,
+            "reporter_id": "1058521654579449886",
+            "reporter_name": "fernando | Musiala fanboy",
+            "reported_user_id": "1058521654579449886",
+            "reported_user_name": "fernando | Musiala fanboy",
+            "reason": "spamming / chatting on his own like total 20+ msgs",
+            "server_id": "1338482540348182588",
+            "server_name": "The Grid",
+            "timestamp": "2025-04-01T22:16:37.086170",
+            "status": "pending"
+        },
+        {
+            "report_id": 4,
+            "reporter_id": "1308527904497340467",
+            "reporter_name": "CroWic",
+            "reported_user_id": "1308527904497340467",
+            "reported_user_name": "CroWic",
+            "reason": "jj",
+            "server_id": "1338482540348182588",
+            "server_name": "The Grid",
+            "timestamp": "2025-04-05T12:48:40.264128",
+            "status": "pending",
+            "image_url": "8c5e054c-7253-4686-83b0-cdd77c5fecb3.jpg"
+        },
+        {
+            "report_id": 5,
+            "reporter_id": "1308527904497340467",
+            "reporter_name": "CroWic",
+            "reported_user_id": "1308527904497340467",
+            "reported_user_name": "CroWic",
+            "reason": "m",
+            "server_id": "1338482540348182588",
+            "server_name": "The Grid",
+            "timestamp": "2025-04-05T12:52:39.111146",
+            "status": "pending",
+            "image_url": "8c5e054c-7253-4686-83b0-cdd77c5fecb3.jpg"
+        },
+        {
+            "report_id": 6,
+            "reporter_id": "1308527904497340467",
+            "reporter_name": "CroWic",
+            "reported_user_id": "1308527904497340467",
+            "reported_user_name": "CroWic",
+            "reason": "dd",
+            "server_id": "1338482540348182588",
+            "server_name": "The Grid",
+            "timestamp": "2025-04-05T12:56:34.948976",
+            "status": "resolved",
+            "image_url": "https://media.discordapp.net/attachments/1350885801134915664/1358059797643137165/rn_image_picker_lib_temp_8c5e054c-7253-4686-83b0-cdd77c5fecb3.jpg?ex=67f2773f&is=67f125bf&hm=00d486f1bc08518d62737c6746530eda292c145c3cc2b241782eac2b3ee4a899&",
+            "message_id": "1358062767206305862",
+            "status_note": "Warning issued by crowicgt_97492 (1308527904497340467)",
+            "action_details": {
+                "action": "warn",
+                "warning": "Gay",
+                "dm_sent": true
+            },
+            "updated_at": "2025-04-05T12:56:48.051957"
+        }
+    ]
+}

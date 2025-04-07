@@ -1,0 +1,1412 @@
+2025-04-07 17:00:11,687 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:00:11,688 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:00:11,691 - ai_conversation - INFO - Saved 26 conversation histories
+2025-04-07 17:00:16,798 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:00:16,798 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:00:16,799 - ai_conversation - INFO - Saved 26 conversation histories
+2025-04-07 17:00:20,221 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:00:20,221 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:00:20,222 - ai_conversation - INFO - Saved 27 conversation histories
+2025-04-07 17:00:26,385 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:00:26,386 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:00:26,393 - ai_conversation - INFO - Saved 28 conversation histories
+2025-04-07 17:00:30,528 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:00:30,528 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:00:30,529 - ai_conversation - INFO - Saved 29 conversation histories
+2025-04-07 17:00:56,359 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:00:56,360 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:00:56,361 - ai_conversation - INFO - Saved 30 conversation histories
+2025-04-07 17:01:01,193 - ai_conversation - ERROR - OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-07 17:01:01,193 - ai_conversation - ERROR - API quota exceeded. The bot needs a new OpenAI API key with sufficient quota.
+2025-04-07 17:01:01,195 - ai_conversation - INFO - Saved 30 conversation histories
+2025-04-07 17:13:27,859 - main - INFO - Starting Discord bot...
+2025-04-07 17:13:27,862 - minimal_bot - INFO - Loading cogs for 88 commands...
+2025-04-07 17:13:27,864 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,864 - leveling - INFO - Leveling system initialized
+2025-04-07 17:13:27,864 - leveling - INFO - Leveling cog loaded
+2025-04-07 17:13:27,865 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,866 - investment_system - INFO - Loaded investment data for 5 users
+2025-04-07 17:13:27,866 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,866 - investment_system - INFO - Investment cog initialized
+2025-04-07 17:13:27,867 - investment_system - INFO - Investment cog loaded
+2025-04-07 17:13:27,867 - investment_system - INFO - Investment cog added to bot
+2025-04-07 17:13:27,867 - mining - INFO - Mining database tables initialized
+2025-04-07 17:13:27,867 - mining - INFO - Mining cog loaded
+2025-04-07 17:13:27,868 - chat_activity - INFO - Activity database tables created
+2025-04-07 17:13:27,868 - chat_activity - INFO - Chat activity cog initialized
+2025-04-07 17:13:27,869 - chat_activity - INFO - Loaded active event ID 4
+2025-04-07 17:13:27,869 - chat_activity - INFO - Loaded active chat activity event, will resume after bot is ready
+2025-04-07 17:13:27,869 - chat_activity - INFO - Chat activity cog loaded
+2025-04-07 17:13:27,870 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,871 - gamevote - INFO - Game vote database tables created
+2025-04-07 17:13:27,871 - gamevote - INFO - Game Vote cog initialized
+2025-04-07 17:13:27,872 - gamevote - INFO - No active game votes found in database
+2025-04-07 17:13:27,872 - gamevote - INFO - Game Vote cog loaded
+2025-04-07 17:13:27,872 - level_roles - INFO - Starting Level Roles cog setup
+2025-04-07 17:13:27,872 - level_roles - INFO - Level Roles cog initialized
+2025-04-07 17:13:27,872 - level_roles - INFO - Level Roles cog added to bot
+2025-04-07 17:13:27,872 - level_roles - INFO - LevelingCog found - level up events will be processed
+2025-04-07 17:13:27,873 - level_roles - INFO - Level Roles cog loaded
+2025-04-07 17:13:27,874 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,874 - event_system - INFO - Loaded event settings from file
+2025-04-07 17:13:27,874 - event_system - INFO - Event system initialized
+2025-04-07 17:13:27,874 - event_system - INFO - Event system cog loaded
+2025-04-07 17:13:27,875 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,875 - random_drops - INFO - Random drops cog loaded
+2025-04-07 17:13:27,876 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,877 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,877 - shop_system - INFO - Loaded shop configuration. Notification channel: 1352717796336996422
+2025-04-07 17:13:27,877 - shop_system - INFO - Shop cog loaded
+2025-04-07 17:13:27,878 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:27,968 - database_handler - INFO - Using PostgreSQL database
+2025-04-07 17:13:28,618 - pg_database - INFO - Connected to PostgreSQL database
+2025-04-07 17:13:28,976 - pg_database - INFO - PostgreSQL database initialized
+2025-04-07 17:13:29,008 - profile_system - INFO - Loaded 0 profiles from PostgreSQL database
+2025-04-07 17:13:29,009 - profile_system - INFO - Profile system cog loaded
+2025-04-07 17:13:29,010 - database - INFO - Database initialized at data/leveling.db
+2025-04-07 17:13:29,010 - tournaments - INFO - Loaded 9 active tournaments
+2025-04-07 17:13:29,010 - tournaments - INFO - Loaded 1 game votes
+2025-04-07 17:13:29,010 - tournaments - INFO - Tournament cog loaded
+2025-04-07 17:13:29,011 - giveaway_system - INFO - Loaded 0 active giveaways
+2025-04-07 17:13:29,011 - giveaway_system - INFO - Giveaway system cog loaded
+2025-04-07 17:13:29,011 - mass_messaging - INFO - Mass Messaging cog initialized
+2025-04-07 17:13:29,011 - mass_messaging - INFO - Mass Messaging cog loaded
+2025-04-07 17:13:29,011 - hourly_questions - INFO - Setting up Hourly Questions cog...
+2025-04-07 17:13:29,011 - hourly_questions - INFO - Hourly Questions setup - Logger check passed
+2025-04-07 17:13:29,011 - hourly_questions - INFO - Loaded next question time: 2025-04-07 18:00:02.514172
+2025-04-07 17:13:29,012 - hourly_questions - INFO - Hourly Questions cog loaded successfully - Target channel: 1339809561594298448, Role to ping: 1349698354145398826
+2025-04-07 17:13:29,012 - minimal_bot - INFO - Database export cog loaded
+2025-04-07 17:13:29,012 - brawl_stars - INFO - Brawl Stars database initialized
+2025-04-07 17:13:29,013 - brawl_stars - INFO - Brawl Stars cog loaded
+2025-04-07 17:13:29,013 - minimal_bot - INFO - Brawl Stars cog loaded
+2025-04-07 17:13:29,013 - targeted_messaging - INFO - Targeted Messaging cog initialized
+2025-04-07 17:13:29,013 - targeted_messaging - INFO - Targeted Messaging cog loaded
+2025-04-07 17:13:29,013 - minimal_bot - INFO - Targeted Messaging cog loaded
+2025-04-07 17:13:29,013 - minimal_bot - INFO - Attempting to connect to Discord...
+2025-04-07 17:13:29,625 - leveling - INFO - Processing message from daveelyass (ID: 1174807074505502721) for XP
+2025-04-07 17:13:29,626 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:29,626 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:29,627 - database - INFO - add_xp called for daveelyass (ID: 1174807074505502721)
+2025-04-07 17:13:29,628 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:13:29,628 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:13:29,629 - database - INFO - Last XP time: 1744045398, Current time: 1744046009, Cooldown: 7
+2025-04-07 17:13:29,629 - database - INFO - Time since last XP: 611 seconds
+2025-04-07 17:13:29,632 - database - INFO - Updating user daveelyass (1174807074505502721) - Current XP: 4, Adding: 9, New XP: 13
+2025-04-07 17:13:29,633 - database - INFO - Setting last_xp_time to 1744046009 (2025-04-07 17:13:29)
+2025-04-07 17:13:29,651 - database - INFO - Verification after update: XP = 13, last_xp_time = 1744046009
+2025-04-07 17:13:29,680 - database - INFO - Database commit successful for user daveelyass (1174807074505502721)
+2025-04-07 17:13:29,680 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:13:29,709 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:29,710 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:13:29,710 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:29,710 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:29,710 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:13:29,710 - database - INFO - Random XP amount generated: 13 (min: 5, max: 15)
+2025-04-07 17:13:29,710 - database - INFO - XP to add after all multipliers: 13
+2025-04-07 17:13:29,710 - database - INFO - Last XP time: 1744045368, Current time: 1744046009, Cooldown: 7
+2025-04-07 17:13:29,710 - database - INFO - Time since last XP: 641 seconds
+2025-04-07 17:13:29,710 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2331, Adding: 13, New XP: 2344
+2025-04-07 17:13:29,710 - database - INFO - Setting last_xp_time to 1744046009 (2025-04-07 17:13:29)
+2025-04-07 17:13:29,710 - database - INFO - Verification after update: XP = 2344, last_xp_time = 1744046009
+2025-04-07 17:13:29,724 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:13:29,725 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 13
+2025-04-07 17:13:29,742 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:30,486 - chat_activity - INFO - Activity leaderboard viewed by 1081411438846955612
+2025-04-07 17:13:31,047 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:13:31,047 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:31,047 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:31,047 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:13:31,047 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:13:31,047 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:13:31,047 - database - INFO - Last XP time: 1744045397, Current time: 1744046011, Cooldown: 7
+2025-04-07 17:13:31,047 - database - INFO - Time since last XP: 614 seconds
+2025-04-07 17:13:31,047 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 537, Adding: 14, New XP: 551
+2025-04-07 17:13:31,048 - database - INFO - Setting last_xp_time to 1744046011 (2025-04-07 17:13:31)
+2025-04-07 17:13:31,048 - database - INFO - Verification after update: XP = 551, last_xp_time = 1744046011
+2025-04-07 17:13:31,214 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:13:31,214 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:13:31,248 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:31,626 - hourly_questions - INFO - Hourly questions task is ready to begin...
+2025-04-07 17:13:31,626 - hourly_questions - INFO - Scheduling next question for 2025-04-07 18:00:02 (in 2791 seconds)
+2025-04-07 17:13:31,627 - hourly_questions - INFO - Resuming hourly questions from saved time: 2025-04-07 18:00:02.514172
+2025-04-07 17:13:31,628 - minimal_bot - INFO - Bot connected as GridBot (ID: 1352590543988854885)
+2025-04-07 17:13:31,629 - minimal_bot - INFO - Connected to 2 guilds
+2025-04-07 17:13:31,631 - minimal_bot - INFO - Commands registered in the command tree:
+2025-04-07 17:13:31,632 - minimal_bot - INFO - Command: permissionspanel
+2025-04-07 17:13:31,632 - minimal_bot - INFO - Command: setpublic
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: removepublic
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: rank
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: editleveling
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: xpstop
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: xpstart
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: leaderboard
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: addlevel
+2025-04-07 17:13:31,633 - minimal_bot - INFO - Command: removelevel
+2025-04-07 17:13:31,634 - minimal_bot - INFO - Command: addcoin
+2025-04-07 17:13:31,634 - minimal_bot - INFO - Command: removecoin
+2025-04-07 17:13:31,634 - minimal_bot - INFO - Command: ban
+2025-04-07 17:13:31,635 - minimal_bot - INFO - Command: kick
+2025-04-07 17:13:31,635 - minimal_bot - INFO - Command: mute
+2025-04-07 17:13:31,635 - minimal_bot - INFO - Command: unmute
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: warn
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: warnings
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: clearwarnings
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: channellock
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: channelunlock
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: setlogchannel
+2025-04-07 17:13:31,637 - minimal_bot - INFO - Command: givepermission
+2025-04-07 17:13:31,638 - minimal_bot - INFO - Command: hourlyincome
+2025-04-07 17:13:31,638 - minimal_bot - INFO - Command: reset_properties
+2025-04-07 17:13:31,638 - minimal_bot - INFO - Command: mine
+2025-04-07 17:13:31,638 - minimal_bot - INFO - Command: balance
+2025-04-07 17:13:31,638 - minimal_bot - INFO - Command: upgrade
+2025-04-07 17:13:31,639 - minimal_bot - INFO - Command: sell
+2025-04-07 17:13:31,639 - minimal_bot - INFO - Command: mining_shop
+2025-04-07 17:13:31,641 - minimal_bot - INFO - Command: mining_buy
+2025-04-07 17:13:31,641 - minimal_bot - INFO - Command: prestige
+2025-04-07 17:13:31,641 - minimal_bot - INFO - Command: lb
+2025-04-07 17:13:31,641 - minimal_bot - INFO - Command: chatactivity
+2025-04-07 17:13:31,642 - minimal_bot - INFO - Command: activityleaderboard
+2025-04-07 17:13:31,642 - minimal_bot - INFO - Command: work
+2025-04-07 17:13:31,643 - minimal_bot - INFO - Command: removegamechannel
+2025-04-07 17:13:31,643 - minimal_bot - INFO - Command: listgamechannels
+2025-04-07 17:13:31,644 - minimal_bot - INFO - Command: forcegame
+2025-04-07 17:13:31,644 - minimal_bot - INFO - Command: gamevote
+2025-04-07 17:13:31,644 - minimal_bot - INFO - Command: updateroles
+2025-04-07 17:13:31,645 - minimal_bot - INFO - Command: resetroles
+2025-04-07 17:13:31,646 - minimal_bot - INFO - Command: fixallroles
+2025-04-07 17:13:31,646 - minimal_bot - INFO - Command: announcements
+2025-04-07 17:13:31,646 - minimal_bot - INFO - Command: addannouncement
+2025-04-07 17:13:31,651 - minimal_bot - INFO - Command: howto
+2025-04-07 17:13:31,651 - minimal_bot - INFO - Command: addhowto
+2025-04-07 17:13:31,651 - minimal_bot - INFO - Command: removehowto
+2025-04-07 17:13:31,651 - minimal_bot - INFO - Command: listhowto
+2025-04-07 17:13:31,652 - minimal_bot - INFO - Command: server_events
+2025-04-07 17:13:31,652 - minimal_bot - INFO - Command: xpleaderboard
+2025-04-07 17:13:31,652 - minimal_bot - INFO - Command: drops_config
+2025-04-07 17:13:31,652 - minimal_bot - INFO - Command: force_drop
+2025-04-07 17:13:31,652 - minimal_bot - INFO - Command: shop
+2025-04-07 17:13:31,652 - minimal_bot - INFO - Command: setshopnotificationchannel
+2025-04-07 17:13:31,653 - minimal_bot - INFO - Command: profile
+2025-04-07 17:13:31,653 - minimal_bot - INFO - Command: setbio
+2025-04-07 17:13:31,653 - minimal_bot - INFO - Command: setstance
+2025-04-07 17:13:31,653 - minimal_bot - INFO - Command: settimezone
+2025-04-07 17:13:31,653 - minimal_bot - INFO - Command: setlanguages
+2025-04-07 17:13:31,654 - minimal_bot - INFO - Command: setannouncementpreferences
+2025-04-07 17:13:31,654 - minimal_bot - INFO - Command: createtournament
+2025-04-07 17:13:31,654 - minimal_bot - INFO - Command: tournament
+2025-04-07 17:13:31,654 - minimal_bot - INFO - Command: managetournament
+2025-04-07 17:13:31,656 - minimal_bot - INFO - Command: jointournament
+2025-04-07 17:13:31,656 - minimal_bot - INFO - Command: leavetournament
+2025-04-07 17:13:31,656 - minimal_bot - INFO - Command: giveaway
+2025-04-07 17:13:31,656 - minimal_bot - INFO - Command: endgiveaway
+2025-04-07 17:13:31,656 - minimal_bot - INFO - Command: cancelgiveaway
+2025-04-07 17:13:31,657 - minimal_bot - INFO - Command: listgiveaways
+2025-04-07 17:13:31,657 - minimal_bot - INFO - Command: rerollgiveaway
+2025-04-07 17:13:31,657 - minimal_bot - INFO - Command: sendtoall
+2025-04-07 17:13:31,657 - minimal_bot - INFO - Command: report
+2025-04-07 17:13:31,657 - minimal_bot - INFO - Command: ask_question
+2025-04-07 17:13:31,657 - minimal_bot - INFO - Command: hourlyquestion
+2025-04-07 17:13:31,658 - minimal_bot - INFO - Command: dbsend
+2025-04-07 17:13:31,659 - minimal_bot - INFO - Command: linkbrawl
+2025-04-07 17:13:31,659 - minimal_bot - INFO - Command: brawlstats
+2025-04-07 17:13:31,659 - minimal_bot - INFO - Command: brawlrank
+2025-04-07 17:13:31,659 - minimal_bot - INFO - Command: sendtoall2
+2025-04-07 17:13:31,663 - investment_system - INFO - Started property updater background task
+2025-04-07 17:13:31,663 - investment_system - INFO - Started property updater from on_ready
+2025-04-07 17:13:31,663 - chat_activity - INFO - Bot is ready - resuming any active chat activity events
+2025-04-07 17:13:31,665 - chat_activity - INFO - Loaded active event ID 4
+2025-04-07 17:13:31,665 - chat_activity - INFO - Silently resumed chat activity event with 84841.5 seconds remaining
+2025-04-07 17:13:31,665 - gamevote - INFO - Bot is ready - resuming any active votes
+2025-04-07 17:13:31,667 - gamevote - INFO - No active game votes found in database
+2025-04-07 17:13:31,667 - level_roles - WARNING - Some level roles were not found in guild 🍀 GrowWin 🍀: ID: 1339331106557657089 (Level 5), ID: 1339332632860950589 (Level 10), ID: 1339333949201186878 (Level 15), ID: 1339571891848876075 (Level 20), ID: 1339572201430454272 (Level 25), ID: 1339572204433838142 (Level 30), ID: 1339572206895894602 (Level 35), ID: 1339572209848680458 (Level 40), ID: 1339572212285575199 (Level 45), ID: 1339572214881714176 (Level 50), ID: 1339574559136944240 (Level 55), ID: 1339574564685873245 (Level 60), ID: 1339574564983804018 (Level 65), ID: 1339574565780590632 (Level 70), ID: 1339574566669783180 (Level 75), ID: 1339574568276332564 (Level 80), ID: 1339574568586842112 (Level 85), ID: 1339574569417048085 (Level 90), ID: 1339576526458322954 (Level 95), ID: 1339576529377820733 (Level 100)
+2025-04-07 17:13:31,667 - level_roles - INFO - Verified 0 level roles in guild 🍀 GrowWin 🍀
+2025-04-07 17:13:31,667 - level_roles - INFO - Verified 20 level roles in guild The Grid
+2025-04-07 17:13:31,668 - giveaway_system - INFO - Added persistent views for giveaway system
+2025-04-07 17:13:31,668 - hourly_questions - INFO - Hourly questions task initialized
+2025-04-07 17:13:31,668 - investment_system - INFO - Property updater task started
+2025-04-07 17:13:31,668 - investment_system - INFO - Running initial update to account for offline time...
+2025-04-07 17:13:31,668 - investment_system - INFO - Starting property update process...
+2025-04-07 17:13:31,668 - investment_system - INFO - Property update complete: 10 properties for 5 users
+2025-04-07 17:13:31,669 - investment_system - INFO - Added 0.00 coins total, processed 0.00 total hours
+2025-04-07 17:13:31,669 - investment_system - INFO - Saved investment data for 5 users
+2025-04-07 17:13:31,669 - investment_system - INFO - Initial update complete: 0 users updated, 0.00 total income added
+2025-04-07 17:13:31,973 - minimal_bot - INFO - Synced 80 commands globally
+2025-04-07 17:13:32,115 - minimal_bot - INFO - Synced 0 commands to guild ID: 1337135037531033762
+2025-04-07 17:13:32,303 - minimal_bot - INFO - Synced 0 commands to guild ID: 1338482540348182588
+2025-04-07 17:13:32,480 - investment_system - INFO - Sent maintenance reminder to user 1308527904497340467
+2025-04-07 17:13:32,586 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:13:32,586 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:32,586 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:32,586 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:13:32,586 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:13:32,587 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:13:32,587 - database - INFO - Last XP time: 1744045390, Current time: 1744046012, Cooldown: 7
+2025-04-07 17:13:32,587 - database - INFO - Time since last XP: 622 seconds
+2025-04-07 17:13:32,587 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1525, Adding: 5, New XP: 1530
+2025-04-07 17:13:32,587 - database - INFO - Setting last_xp_time to 1744046012 (2025-04-07 17:13:32)
+2025-04-07 17:13:32,587 - database - INFO - Verification after update: XP = 1530, last_xp_time = 1744046012
+2025-04-07 17:13:32,661 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:13:32,661 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:13:32,692 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:32,975 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:13:32,976 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:32,977 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:32,977 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:13:32,977 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:13:32,977 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:13:32,978 - database - INFO - Last XP time: 1744045397, Current time: 1744046012, Cooldown: 7
+2025-04-07 17:13:32,978 - database - INFO - Time since last XP: 615 seconds
+2025-04-07 17:13:32,979 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2669, Adding: 12, New XP: 2681
+2025-04-07 17:13:32,980 - database - INFO - Setting last_xp_time to 1744046012 (2025-04-07 17:13:32)
+2025-04-07 17:13:32,981 - database - INFO - Verification after update: XP = 2681, last_xp_time = 1744046012
+2025-04-07 17:13:33,008 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:13:33,008 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 12
+2025-04-07 17:13:33,025 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:33,284 - chat_activity - INFO - Activity leaderboard viewed by 1308527904497340467
+2025-04-07 17:13:34,341 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:13:34,342 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:34,342 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:34,343 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:13:34,343 - database - INFO - Random XP amount generated: 6 (min: 5, max: 15)
+2025-04-07 17:13:34,343 - database - INFO - XP to add after all multipliers: 6
+2025-04-07 17:13:34,343 - database - INFO - Last XP time: 1744045400, Current time: 1744046014, Cooldown: 7
+2025-04-07 17:13:34,343 - database - INFO - Time since last XP: 614 seconds
+2025-04-07 17:13:34,343 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 375, Adding: 6, New XP: 381
+2025-04-07 17:13:34,343 - database - INFO - Setting last_xp_time to 1744046014 (2025-04-07 17:13:34)
+2025-04-07 17:13:34,344 - database - INFO - Verification after update: XP = 381, last_xp_time = 1744046014
+2025-04-07 17:13:34,360 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:13:34,360 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 6
+2025-04-07 17:13:34,376 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:34,759 - investment_system - INFO - Sent maintenance reminder to user 706310256954966086
+2025-04-07 17:13:35,359 - investment_system - INFO - Sent maintenance reminder to user 992009691578236959
+2025-04-07 17:13:35,977 - investment_system - INFO - Sent maintenance reminder to user 1035842144511987732
+2025-04-07 17:13:36,521 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:13:36,521 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:36,522 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:36,522 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:13:36,522 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:13:36,522 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:13:36,522 - database - INFO - Last XP time: 1743854626, Current time: 1744046016, Cooldown: 7
+2025-04-07 17:13:36,522 - database - INFO - Time since last XP: 191390 seconds
+2025-04-07 17:13:36,522 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1426, Adding: 15, New XP: 1441
+2025-04-07 17:13:36,522 - database - INFO - Setting last_xp_time to 1744046016 (2025-04-07 17:13:36)
+2025-04-07 17:13:36,523 - database - INFO - Verification after update: XP = 1441, last_xp_time = 1744046016
+2025-04-07 17:13:36,538 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:13:36,538 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:13:36,555 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:36,694 - investment_system - INFO - Sent maintenance reminder to user 1063511383397892256
+2025-04-07 17:13:39,286 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:13:39,286 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:39,287 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:39,287 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:13:39,287 - database - INFO - Random XP amount generated: 13 (min: 5, max: 15)
+2025-04-07 17:13:39,287 - database - INFO - XP to add after all multipliers: 13
+2025-04-07 17:13:39,287 - database - INFO - Last XP time: 1744046011, Current time: 1744046019, Cooldown: 7
+2025-04-07 17:13:39,287 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:13:39,287 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 551, Adding: 13, New XP: 564
+2025-04-07 17:13:39,287 - database - INFO - Setting last_xp_time to 1744046019 (2025-04-07 17:13:39)
+2025-04-07 17:13:39,288 - database - INFO - Verification after update: XP = 564, last_xp_time = 1744046019
+2025-04-07 17:13:39,326 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:13:39,326 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 13
+2025-04-07 17:13:39,344 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:39,657 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:13:39,657 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:39,657 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:39,657 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:13:39,657 - database - INFO - Random XP amount generated: 6 (min: 5, max: 15)
+2025-04-07 17:13:39,657 - database - INFO - XP to add after all multipliers: 6
+2025-04-07 17:13:39,658 - database - INFO - Last XP time: 1744046012, Current time: 1744046019, Cooldown: 7
+2025-04-07 17:13:39,658 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:39,658 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2681, Adding: 6, New XP: 2687
+2025-04-07 17:13:39,658 - database - INFO - Setting last_xp_time to 1744046019 (2025-04-07 17:13:39)
+2025-04-07 17:13:39,658 - database - INFO - Verification after update: XP = 2687, last_xp_time = 1744046019
+2025-04-07 17:13:39,675 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:13:39,675 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 6
+2025-04-07 17:13:39,694 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:40,077 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:13:40,077 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:40,078 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:40,078 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:13:40,078 - database - INFO - Random XP amount generated: 8 (min: 5, max: 15)
+2025-04-07 17:13:40,078 - database - INFO - XP to add after all multipliers: 8
+2025-04-07 17:13:40,078 - database - INFO - Last XP time: 1744046012, Current time: 1744046020, Cooldown: 7
+2025-04-07 17:13:40,078 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:13:40,078 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1530, Adding: 8, New XP: 1538
+2025-04-07 17:13:40,078 - database - INFO - Setting last_xp_time to 1744046020 (2025-04-07 17:13:40)
+2025-04-07 17:13:40,079 - database - INFO - Verification after update: XP = 1538, last_xp_time = 1744046020
+2025-04-07 17:13:40,095 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:13:40,095 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 8
+2025-04-07 17:13:40,111 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:41,387 - leveling - INFO - Processing message from fiz1234_ (ID: 1351761385746337812) for XP
+2025-04-07 17:13:41,387 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:41,388 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:41,388 - database - INFO - add_xp called for fiz1234_ (ID: 1351761385746337812)
+2025-04-07 17:13:41,388 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:13:41,388 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:13:41,388 - database - INFO - Last XP time: 1744045393, Current time: 1744046021, Cooldown: 7
+2025-04-07 17:13:41,388 - database - INFO - Time since last XP: 628 seconds
+2025-04-07 17:13:41,388 - database - INFO - Updating user fiz1234_ (1351761385746337812) - Current XP: 443, Adding: 12, New XP: 455
+2025-04-07 17:13:41,388 - database - INFO - Setting last_xp_time to 1744046021 (2025-04-07 17:13:41)
+2025-04-07 17:13:41,389 - database - INFO - Verification after update: XP = 455, last_xp_time = 1744046021
+2025-04-07 17:13:41,402 - database - INFO - Database commit successful for user fiz1234_ (1351761385746337812)
+2025-04-07 17:13:41,402 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 12
+2025-04-07 17:13:41,417 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:43,339 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:13:43,339 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:43,339 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:43,339 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:13:43,339 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:13:43,339 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:13:43,339 - database - INFO - Last XP time: 1744046014, Current time: 1744046023, Cooldown: 7
+2025-04-07 17:13:43,339 - database - INFO - Time since last XP: 9 seconds
+2025-04-07 17:13:43,339 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 381, Adding: 15, New XP: 396
+2025-04-07 17:13:43,340 - database - INFO - Setting last_xp_time to 1744046023 (2025-04-07 17:13:43)
+2025-04-07 17:13:43,340 - database - INFO - Verification after update: XP = 396, last_xp_time = 1744046023
+2025-04-07 17:13:43,355 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:13:43,355 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:13:43,376 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:43,914 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:13:43,914 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:43,914 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:43,914 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:13:43,914 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:13:43,914 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:13:43,914 - database - INFO - Last XP time: 1744046016, Current time: 1744046023, Cooldown: 7
+2025-04-07 17:13:43,914 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:43,914 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1441, Adding: 7, New XP: 1448
+2025-04-07 17:13:43,915 - database - INFO - Setting last_xp_time to 1744046023 (2025-04-07 17:13:43)
+2025-04-07 17:13:43,915 - database - INFO - Verification after update: XP = 1448, last_xp_time = 1744046023
+2025-04-07 17:13:43,929 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:13:43,929 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 7
+2025-04-07 17:13:43,942 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:45,050 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:13:45,050 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:45,051 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:45,051 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:13:45,051 - database - INFO - Random XP amount generated: 8 (min: 5, max: 15)
+2025-04-07 17:13:45,051 - database - INFO - XP to add after all multipliers: 8
+2025-04-07 17:13:45,051 - database - INFO - Last XP time: 1744046009, Current time: 1744046025, Cooldown: 7
+2025-04-07 17:13:45,051 - database - INFO - Time since last XP: 16 seconds
+2025-04-07 17:13:45,051 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2344, Adding: 8, New XP: 2352
+2025-04-07 17:13:45,051 - database - INFO - Setting last_xp_time to 1744046025 (2025-04-07 17:13:45)
+2025-04-07 17:13:45,052 - database - INFO - Verification after update: XP = 2352, last_xp_time = 1744046025
+2025-04-07 17:13:45,068 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:13:45,068 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 8
+2025-04-07 17:13:45,084 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:46,544 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:13:46,544 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:46,545 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:46,545 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:13:46,545 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:13:46,545 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:13:46,545 - database - INFO - Last XP time: 1744046019, Current time: 1744046026, Cooldown: 7
+2025-04-07 17:13:46,545 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:46,545 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2687, Adding: 14, New XP: 2701
+2025-04-07 17:13:46,545 - database - INFO - Setting last_xp_time to 1744046026 (2025-04-07 17:13:46)
+2025-04-07 17:13:46,545 - database - INFO - Verification after update: XP = 2701, last_xp_time = 1744046026
+2025-04-07 17:13:46,678 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:13:46,679 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:13:46,718 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:46,719 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:13:46,719 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:46,719 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:46,719 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:13:46,719 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:13:46,719 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:13:46,719 - database - INFO - Last XP time: 1744046019, Current time: 1744046026, Cooldown: 7
+2025-04-07 17:13:46,720 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:46,720 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 564, Adding: 5, New XP: 569
+2025-04-07 17:13:46,720 - database - INFO - Setting last_xp_time to 1744046026 (2025-04-07 17:13:46)
+2025-04-07 17:13:46,720 - database - INFO - Verification after update: XP = 569, last_xp_time = 1744046026
+2025-04-07 17:13:46,745 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:13:46,745 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:13:46,763 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:46,764 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:13:46,764 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:46,764 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:46,764 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:13:46,764 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:13:46,764 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:13:46,764 - database - INFO - Last XP time: 1744046020, Current time: 1744046026, Cooldown: 7
+2025-04-07 17:13:46,765 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:13:46,765 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:13:46,765 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:13:46,782 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:46,925 - leveling - INFO - Processing message from daveelyass (ID: 1174807074505502721) for XP
+2025-04-07 17:13:46,925 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:46,926 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:46,926 - database - INFO - add_xp called for daveelyass (ID: 1174807074505502721)
+2025-04-07 17:13:46,926 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:13:46,926 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:13:46,926 - database - INFO - Last XP time: 1744046009, Current time: 1744046026, Cooldown: 7
+2025-04-07 17:13:46,926 - database - INFO - Time since last XP: 17 seconds
+2025-04-07 17:13:46,926 - database - INFO - Updating user daveelyass (1174807074505502721) - Current XP: 13, Adding: 5, New XP: 18
+2025-04-07 17:13:46,926 - database - INFO - Setting last_xp_time to 1744046026 (2025-04-07 17:13:46)
+2025-04-07 17:13:46,927 - database - INFO - Verification after update: XP = 18, last_xp_time = 1744046026
+2025-04-07 17:13:46,951 - database - INFO - Database commit successful for user daveelyass (1174807074505502721)
+2025-04-07 17:13:46,952 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:13:46,967 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:47,709 - leveling - INFO - Processing message from simplybanks (ID: 1099674917160620112) for XP
+2025-04-07 17:13:47,709 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:47,709 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:47,709 - database - INFO - add_xp called for simplybanks (ID: 1099674917160620112)
+2025-04-07 17:13:47,709 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:13:47,709 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:13:47,709 - database - INFO - Last XP time: 1744045333, Current time: 1744046027, Cooldown: 7
+2025-04-07 17:13:47,710 - database - INFO - Time since last XP: 694 seconds
+2025-04-07 17:13:47,710 - database - INFO - Updating user simplybanks (1099674917160620112) - Current XP: 338, Adding: 9, New XP: 347
+2025-04-07 17:13:47,710 - database - INFO - Setting last_xp_time to 1744046027 (2025-04-07 17:13:47)
+2025-04-07 17:13:47,710 - database - INFO - Verification after update: XP = 347, last_xp_time = 1744046027
+2025-04-07 17:13:47,729 - database - INFO - Database commit successful for user simplybanks (1099674917160620112)
+2025-04-07 17:13:47,729 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:13:47,745 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:50,084 - leveling - INFO - Processing message from simplybanks (ID: 1099674917160620112) for XP
+2025-04-07 17:13:50,084 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:50,084 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:50,084 - database - INFO - add_xp called for simplybanks (ID: 1099674917160620112)
+2025-04-07 17:13:50,084 - database - INFO - Random XP amount generated: 6 (min: 5, max: 15)
+2025-04-07 17:13:50,085 - database - INFO - XP to add after all multipliers: 6
+2025-04-07 17:13:50,085 - database - INFO - Last XP time: 1744046027, Current time: 1744046030, Cooldown: 7
+2025-04-07 17:13:50,085 - database - INFO - Time since last XP: 3 seconds
+2025-04-07 17:13:50,085 - database - INFO - User is on cooldown. Needs to wait 4 more seconds
+2025-04-07 17:13:50,085 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:13:50,108 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:50,642 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:13:50,642 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:50,642 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:50,642 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:13:50,642 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:13:50,642 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:13:50,643 - database - INFO - Last XP time: 1744046023, Current time: 1744046030, Cooldown: 7
+2025-04-07 17:13:50,643 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:50,643 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 396, Adding: 15, New XP: 411
+2025-04-07 17:13:50,643 - database - INFO - Setting last_xp_time to 1744046030 (2025-04-07 17:13:50)
+2025-04-07 17:13:50,643 - database - INFO - Verification after update: XP = 411, last_xp_time = 1744046030
+2025-04-07 17:13:50,658 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:13:50,659 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:13:50,673 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:50,788 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:13:50,788 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:50,788 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:50,788 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:13:50,789 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:13:50,789 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:13:50,789 - database - INFO - Last XP time: 1744046023, Current time: 1744046030, Cooldown: 7
+2025-04-07 17:13:50,789 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:50,789 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1448, Adding: 11, New XP: 1459
+2025-04-07 17:13:50,789 - database - INFO - Setting last_xp_time to 1744046030 (2025-04-07 17:13:50)
+2025-04-07 17:13:50,789 - database - INFO - Verification after update: XP = 1459, last_xp_time = 1744046030
+2025-04-07 17:13:50,802 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:13:50,802 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 11
+2025-04-07 17:13:50,815 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:51,301 - leveling - INFO - Processing message from 911mohh (ID: 1330268197269540874) for XP
+2025-04-07 17:13:51,301 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:51,301 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:51,301 - database - INFO - add_xp called for 911mohh (ID: 1330268197269540874)
+2025-04-07 17:13:51,301 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:13:51,302 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:13:51,302 - database - INFO - Last XP time: 1744045399, Current time: 1744046031, Cooldown: 7
+2025-04-07 17:13:51,302 - database - INFO - Time since last XP: 632 seconds
+2025-04-07 17:13:51,302 - database - INFO - Updating user 911mohh (1330268197269540874) - Current XP: 45, Adding: 14, New XP: 59
+2025-04-07 17:13:51,302 - database - INFO - Setting last_xp_time to 1744046031 (2025-04-07 17:13:51)
+2025-04-07 17:13:51,302 - database - INFO - Verification after update: XP = 59, last_xp_time = 1744046031
+2025-04-07 17:13:51,328 - database - INFO - Database commit successful for user 911mohh (1330268197269540874)
+2025-04-07 17:13:51,328 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:13:51,342 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:52,636 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:13:52,636 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:52,637 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:52,637 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:13:52,637 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:13:52,637 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:13:52,637 - database - INFO - Last XP time: 1744046026, Current time: 1744046032, Cooldown: 7
+2025-04-07 17:13:52,637 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:13:52,637 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:13:52,638 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:13:52,654 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:53,658 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:13:53,658 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:53,658 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:53,658 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:13:53,659 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:13:53,659 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:13:53,659 - database - INFO - Last XP time: 1744046026, Current time: 1744046033, Cooldown: 7
+2025-04-07 17:13:53,659 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:13:53,659 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 569, Adding: 12, New XP: 581
+2025-04-07 17:13:53,659 - database - INFO - Setting last_xp_time to 1744046033 (2025-04-07 17:13:53)
+2025-04-07 17:13:53,660 - database - INFO - Verification after update: XP = 581, last_xp_time = 1744046033
+2025-04-07 17:13:53,675 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:13:53,676 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 12
+2025-04-07 17:13:53,689 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:53,948 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:13:53,948 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:53,949 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:53,949 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:13:53,949 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:13:53,949 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:13:53,949 - database - INFO - Last XP time: 1744046020, Current time: 1744046033, Cooldown: 7
+2025-04-07 17:13:53,949 - database - INFO - Time since last XP: 13 seconds
+2025-04-07 17:13:53,949 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1538, Adding: 15, New XP: 1553
+2025-04-07 17:13:53,950 - database - INFO - Setting last_xp_time to 1744046033 (2025-04-07 17:13:53)
+2025-04-07 17:13:53,950 - database - INFO - Verification after update: XP = 1553, last_xp_time = 1744046033
+2025-04-07 17:13:53,967 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:13:53,967 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:13:53,982 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:59,064 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:13:59,064 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:59,065 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:59,065 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:13:59,065 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:13:59,065 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:13:59,065 - database - INFO - Last XP time: 1744046026, Current time: 1744046039, Cooldown: 7
+2025-04-07 17:13:59,065 - database - INFO - Time since last XP: 13 seconds
+2025-04-07 17:13:59,065 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2701, Adding: 11, New XP: 2712
+2025-04-07 17:13:59,065 - database - INFO - Setting last_xp_time to 1744046039 (2025-04-07 17:13:59)
+2025-04-07 17:13:59,066 - database - INFO - Verification after update: XP = 2712, last_xp_time = 1744046039
+2025-04-07 17:13:59,078 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:13:59,078 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 11
+2025-04-07 17:13:59,094 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:13:59,717 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:13:59,717 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:13:59,718 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:13:59,718 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:13:59,718 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:13:59,718 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:13:59,718 - database - INFO - Last XP time: 1744046030, Current time: 1744046039, Cooldown: 7
+2025-04-07 17:13:59,718 - database - INFO - Time since last XP: 9 seconds
+2025-04-07 17:13:59,718 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 411, Adding: 5, New XP: 416
+2025-04-07 17:13:59,718 - database - INFO - Setting last_xp_time to 1744046039 (2025-04-07 17:13:59)
+2025-04-07 17:13:59,719 - database - INFO - Verification after update: XP = 416, last_xp_time = 1744046039
+2025-04-07 17:13:59,732 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:13:59,732 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:13:59,750 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:00,933 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:00,933 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:00,933 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:00,933 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:00,933 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:14:00,933 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:14:00,933 - database - INFO - Last XP time: 1744046033, Current time: 1744046040, Cooldown: 7
+2025-04-07 17:14:00,934 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:00,934 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 581, Adding: 14, New XP: 595
+2025-04-07 17:14:00,934 - database - INFO - Setting last_xp_time to 1744046040 (2025-04-07 17:14:00)
+2025-04-07 17:14:00,934 - database - INFO - Verification after update: XP = 595, last_xp_time = 1744046040
+2025-04-07 17:14:01,237 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:01,237 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:14:01,278 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:01,280 - leveling - INFO - Enhanced rank command used by fiz1234_ for fiz1234_
+2025-04-07 17:14:01,747 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:01,747 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:01,748 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:01,748 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:01,748 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:14:01,748 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:14:01,748 - database - INFO - Last XP time: 1744046030, Current time: 1744046041, Cooldown: 7
+2025-04-07 17:14:01,748 - database - INFO - Time since last XP: 11 seconds
+2025-04-07 17:14:01,748 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1459, Adding: 7, New XP: 1466
+2025-04-07 17:14:01,748 - database - INFO - Setting last_xp_time to 1744046041 (2025-04-07 17:14:01)
+2025-04-07 17:14:01,749 - database - INFO - Verification after update: XP = 1466, last_xp_time = 1744046041
+2025-04-07 17:14:01,768 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:14:01,768 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 7
+2025-04-07 17:14:01,786 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:02,986 - leveling - INFO - Processing message from 911mohh (ID: 1330268197269540874) for XP
+2025-04-07 17:14:02,986 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:02,987 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:02,987 - database - INFO - add_xp called for 911mohh (ID: 1330268197269540874)
+2025-04-07 17:14:02,987 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:14:02,987 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:14:02,987 - database - INFO - Last XP time: 1744046031, Current time: 1744046042, Cooldown: 7
+2025-04-07 17:14:02,987 - database - INFO - Time since last XP: 11 seconds
+2025-04-07 17:14:02,987 - database - INFO - Updating user 911mohh (1330268197269540874) - Current XP: 59, Adding: 9, New XP: 68
+2025-04-07 17:14:02,987 - database - INFO - Setting last_xp_time to 1744046042 (2025-04-07 17:14:02)
+2025-04-07 17:14:02,988 - database - INFO - Verification after update: XP = 68, last_xp_time = 1744046042
+2025-04-07 17:14:03,003 - database - INFO - Database commit successful for user 911mohh (1330268197269540874)
+2025-04-07 17:14:03,003 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:14:03,018 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:04,141 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:04,142 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:04,142 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:04,142 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:04,142 - database - INFO - Random XP amount generated: 8 (min: 5, max: 15)
+2025-04-07 17:14:04,142 - database - INFO - XP to add after all multipliers: 8
+2025-04-07 17:14:04,142 - database - INFO - Last XP time: 1744046033, Current time: 1744046044, Cooldown: 7
+2025-04-07 17:14:04,142 - database - INFO - Time since last XP: 11 seconds
+2025-04-07 17:14:04,142 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1553, Adding: 8, New XP: 1561
+2025-04-07 17:14:04,142 - database - INFO - Setting last_xp_time to 1744046044 (2025-04-07 17:14:04)
+2025-04-07 17:14:04,142 - database - INFO - Verification after update: XP = 1561, last_xp_time = 1744046044
+2025-04-07 17:14:04,154 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:14:04,154 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 8
+2025-04-07 17:14:04,169 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:04,762 - leveling - INFO - Processing message from daveelyass (ID: 1174807074505502721) for XP
+2025-04-07 17:14:04,762 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:04,762 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:04,762 - database - INFO - add_xp called for daveelyass (ID: 1174807074505502721)
+2025-04-07 17:14:04,762 - database - INFO - Random XP amount generated: 8 (min: 5, max: 15)
+2025-04-07 17:14:04,762 - database - INFO - XP to add after all multipliers: 8
+2025-04-07 17:14:04,762 - database - INFO - Last XP time: 1744046026, Current time: 1744046044, Cooldown: 7
+2025-04-07 17:14:04,763 - database - INFO - Time since last XP: 18 seconds
+2025-04-07 17:14:04,763 - database - INFO - Updating user daveelyass (1174807074505502721) - Current XP: 18, Adding: 8, New XP: 26
+2025-04-07 17:14:04,763 - database - INFO - Setting last_xp_time to 1744046044 (2025-04-07 17:14:04)
+2025-04-07 17:14:04,763 - database - INFO - Verification after update: XP = 26, last_xp_time = 1744046044
+2025-04-07 17:14:04,778 - database - INFO - Database commit successful for user daveelyass (1174807074505502721)
+2025-04-07 17:14:04,779 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 8
+2025-04-07 17:14:04,797 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:05,354 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:05,355 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:05,355 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:05,355 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:05,355 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:14:05,355 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:14:05,355 - database - INFO - Last XP time: 1744046039, Current time: 1744046045, Cooldown: 7
+2025-04-07 17:14:05,355 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:14:05,355 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:14:05,355 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:14:05,372 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:06,226 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:06,226 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:06,226 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:06,226 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:06,226 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:06,227 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:06,227 - database - INFO - Last XP time: 1744046039, Current time: 1744046046, Cooldown: 7
+2025-04-07 17:14:06,227 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:06,227 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 416, Adding: 5, New XP: 421
+2025-04-07 17:14:06,227 - database - INFO - Setting last_xp_time to 1744046046 (2025-04-07 17:14:06)
+2025-04-07 17:14:06,227 - database - INFO - Verification after update: XP = 421, last_xp_time = 1744046046
+2025-04-07 17:14:06,239 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:14:06,240 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:06,254 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:06,255 - chat_activity - INFO - Activity leaderboard viewed by 1351761385746337812
+2025-04-07 17:14:07,714 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:07,714 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:07,714 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:07,714 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:07,715 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:07,715 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:07,715 - database - INFO - Last XP time: 1744046041, Current time: 1744046047, Cooldown: 7
+2025-04-07 17:14:07,715 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:14:07,715 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:14:07,715 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:14:07,739 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:08,607 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:08,607 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:08,607 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:08,607 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:08,608 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:14:08,608 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:14:08,608 - database - INFO - Last XP time: 1744046040, Current time: 1744046048, Cooldown: 7
+2025-04-07 17:14:08,608 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:08,608 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 595, Adding: 14, New XP: 609
+2025-04-07 17:14:08,608 - database - INFO - Setting last_xp_time to 1744046048 (2025-04-07 17:14:08)
+2025-04-07 17:14:08,608 - database - INFO - Verification after update: XP = 609, last_xp_time = 1744046048
+2025-04-07 17:14:08,637 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:08,637 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:14:08,808 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:11,306 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:14:11,306 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:11,306 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:11,306 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:14:11,306 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:14:11,307 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:14:11,307 - database - INFO - Last XP time: 1744046025, Current time: 1744046051, Cooldown: 7
+2025-04-07 17:14:11,307 - database - INFO - Time since last XP: 26 seconds
+2025-04-07 17:14:11,307 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2352, Adding: 11, New XP: 2363
+2025-04-07 17:14:11,307 - database - INFO - Setting last_xp_time to 1744046051 (2025-04-07 17:14:11)
+2025-04-07 17:14:11,307 - database - INFO - Verification after update: XP = 2363, last_xp_time = 1744046051
+2025-04-07 17:14:11,319 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:14:11,320 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 11
+2025-04-07 17:14:11,335 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:11,429 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:11,429 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:11,429 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:11,429 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:11,429 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:14:11,430 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:14:11,430 - database - INFO - Last XP time: 1744046039, Current time: 1744046051, Cooldown: 7
+2025-04-07 17:14:11,430 - database - INFO - Time since last XP: 12 seconds
+2025-04-07 17:14:11,430 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2712, Adding: 7, New XP: 2719
+2025-04-07 17:14:11,430 - database - INFO - Setting last_xp_time to 1744046051 (2025-04-07 17:14:11)
+2025-04-07 17:14:11,430 - database - INFO - Verification after update: XP = 2719, last_xp_time = 1744046051
+2025-04-07 17:14:11,443 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:14:11,444 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 7
+2025-04-07 17:14:11,458 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:12,718 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:12,718 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:12,718 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:12,719 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:12,719 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:12,719 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:12,719 - database - INFO - Last XP time: 1744046044, Current time: 1744046052, Cooldown: 7
+2025-04-07 17:14:12,719 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:12,719 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1561, Adding: 15, New XP: 1576
+2025-04-07 17:14:12,719 - database - INFO - Setting last_xp_time to 1744046052 (2025-04-07 17:14:12)
+2025-04-07 17:14:12,719 - database - INFO - Verification after update: XP = 1576, last_xp_time = 1744046052
+2025-04-07 17:14:12,733 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:14:12,734 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:12,747 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:13,308 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:13,308 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:13,308 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:13,308 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:13,308 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:14:13,308 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:14:13,308 - database - INFO - Last XP time: 1744046046, Current time: 1744046053, Cooldown: 7
+2025-04-07 17:14:13,308 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:13,309 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 421, Adding: 12, New XP: 433
+2025-04-07 17:14:13,309 - database - INFO - Setting last_xp_time to 1744046053 (2025-04-07 17:14:13)
+2025-04-07 17:14:13,309 - database - INFO - Verification after update: XP = 433, last_xp_time = 1744046053
+2025-04-07 17:14:13,325 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:14:13,325 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 12
+2025-04-07 17:14:13,340 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:14,305 - leveling - INFO - Processing message from 911mohh (ID: 1330268197269540874) for XP
+2025-04-07 17:14:14,305 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:14,305 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:14,305 - database - INFO - add_xp called for 911mohh (ID: 1330268197269540874)
+2025-04-07 17:14:14,305 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:14:14,306 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:14:14,306 - database - INFO - Last XP time: 1744046042, Current time: 1744046054, Cooldown: 7
+2025-04-07 17:14:14,306 - database - INFO - Time since last XP: 12 seconds
+2025-04-07 17:14:14,306 - database - INFO - Updating user 911mohh (1330268197269540874) - Current XP: 68, Adding: 14, New XP: 82
+2025-04-07 17:14:14,306 - database - INFO - Setting last_xp_time to 1744046054 (2025-04-07 17:14:14)
+2025-04-07 17:14:14,307 - database - INFO - Verification after update: XP = 82, last_xp_time = 1744046054
+2025-04-07 17:14:14,321 - database - INFO - Database commit successful for user 911mohh (1330268197269540874)
+2025-04-07 17:14:14,321 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:14:14,335 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:15,879 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:15,879 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:15,879 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:15,879 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:15,879 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:15,880 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:15,880 - database - INFO - Last XP time: 1744046048, Current time: 1744046055, Cooldown: 7
+2025-04-07 17:14:15,880 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:15,880 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 609, Adding: 15, New XP: 624
+2025-04-07 17:14:15,880 - database - INFO - Setting last_xp_time to 1744046055 (2025-04-07 17:14:15)
+2025-04-07 17:14:15,880 - database - INFO - Verification after update: XP = 624, last_xp_time = 1744046055
+2025-04-07 17:14:15,892 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:15,892 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:15,907 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:17,617 - leveling - INFO - Processing message from daveelyass (ID: 1174807074505502721) for XP
+2025-04-07 17:14:17,618 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:17,618 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:17,618 - database - INFO - add_xp called for daveelyass (ID: 1174807074505502721)
+2025-04-07 17:14:17,618 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:14:17,618 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:14:17,618 - database - INFO - Last XP time: 1744046044, Current time: 1744046057, Cooldown: 7
+2025-04-07 17:14:17,618 - database - INFO - Time since last XP: 13 seconds
+2025-04-07 17:14:17,618 - database - INFO - Updating user daveelyass (1174807074505502721) - Current XP: 26, Adding: 7, New XP: 33
+2025-04-07 17:14:17,619 - database - INFO - Setting last_xp_time to 1744046057 (2025-04-07 17:14:17)
+2025-04-07 17:14:17,619 - database - INFO - Verification after update: XP = 33, last_xp_time = 1744046057
+2025-04-07 17:14:17,748 - database - INFO - Database commit successful for user daveelyass (1174807074505502721)
+2025-04-07 17:14:17,748 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 7
+2025-04-07 17:14:17,762 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:18,040 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:18,040 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:18,040 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:18,040 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:18,041 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:18,041 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:18,041 - database - INFO - Last XP time: 1744046041, Current time: 1744046058, Cooldown: 7
+2025-04-07 17:14:18,041 - database - INFO - Time since last XP: 17 seconds
+2025-04-07 17:14:18,041 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1466, Adding: 5, New XP: 1471
+2025-04-07 17:14:18,041 - database - INFO - Setting last_xp_time to 1744046058 (2025-04-07 17:14:18)
+2025-04-07 17:14:18,041 - database - INFO - Verification after update: XP = 1471, last_xp_time = 1744046058
+2025-04-07 17:14:18,057 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:14:18,057 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:18,073 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:18,459 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:18,460 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:18,460 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:18,460 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:18,460 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:18,460 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:18,460 - database - INFO - Last XP time: 1744046051, Current time: 1744046058, Cooldown: 7
+2025-04-07 17:14:18,460 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:18,461 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2719, Adding: 15, New XP: 2734
+2025-04-07 17:14:18,461 - database - INFO - Setting last_xp_time to 1744046058 (2025-04-07 17:14:18)
+2025-04-07 17:14:18,461 - database - INFO - Verification after update: XP = 2734, last_xp_time = 1744046058
+2025-04-07 17:14:18,475 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:14:18,475 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:18,494 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:19,852 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:14:19,852 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:19,852 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:19,852 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:14:19,852 - database - INFO - Random XP amount generated: 13 (min: 5, max: 15)
+2025-04-07 17:14:19,853 - database - INFO - XP to add after all multipliers: 13
+2025-04-07 17:14:19,853 - database - INFO - Last XP time: 1744046051, Current time: 1744046059, Cooldown: 7
+2025-04-07 17:14:19,853 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:19,853 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2363, Adding: 13, New XP: 2376
+2025-04-07 17:14:19,853 - database - INFO - Setting last_xp_time to 1744046059 (2025-04-07 17:14:19)
+2025-04-07 17:14:19,853 - database - INFO - Verification after update: XP = 2376, last_xp_time = 1744046059
+2025-04-07 17:14:19,867 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:14:19,867 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 13
+2025-04-07 17:14:19,883 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:20,400 - leveling - INFO - Processing message from simplybanks (ID: 1099674917160620112) for XP
+2025-04-07 17:14:20,400 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:20,400 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:20,401 - database - INFO - add_xp called for simplybanks (ID: 1099674917160620112)
+2025-04-07 17:14:20,401 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:20,401 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:20,401 - database - INFO - Last XP time: 1744046027, Current time: 1744046060, Cooldown: 7
+2025-04-07 17:14:20,401 - database - INFO - Time since last XP: 33 seconds
+2025-04-07 17:14:20,401 - database - INFO - Updating user simplybanks (1099674917160620112) - Current XP: 347, Adding: 5, New XP: 352
+2025-04-07 17:14:20,401 - database - INFO - Setting last_xp_time to 1744046060 (2025-04-07 17:14:20)
+2025-04-07 17:14:20,401 - database - INFO - Verification after update: XP = 352, last_xp_time = 1744046060
+2025-04-07 17:14:20,415 - database - INFO - Database commit successful for user simplybanks (1099674917160620112)
+2025-04-07 17:14:20,416 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:20,431 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:20,432 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:20,432 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:20,432 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:20,432 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:20,432 - database - INFO - Random XP amount generated: 13 (min: 5, max: 15)
+2025-04-07 17:14:20,433 - database - INFO - XP to add after all multipliers: 13
+2025-04-07 17:14:20,433 - database - INFO - Last XP time: 1744046053, Current time: 1744046060, Cooldown: 7
+2025-04-07 17:14:20,433 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:20,433 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 433, Adding: 13, New XP: 446
+2025-04-07 17:14:20,433 - database - INFO - Setting last_xp_time to 1744046060 (2025-04-07 17:14:20)
+2025-04-07 17:14:20,433 - database - INFO - Verification after update: XP = 446, last_xp_time = 1744046060
+2025-04-07 17:14:20,446 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:14:20,447 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 13
+2025-04-07 17:14:20,469 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:20,470 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:20,470 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:20,470 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:20,471 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:20,471 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:20,471 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:20,471 - database - INFO - Last XP time: 1744046052, Current time: 1744046060, Cooldown: 7
+2025-04-07 17:14:20,471 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:20,471 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1576, Adding: 5, New XP: 1581
+2025-04-07 17:14:20,472 - database - INFO - Setting last_xp_time to 1744046060 (2025-04-07 17:14:20)
+2025-04-07 17:14:20,472 - database - INFO - Verification after update: XP = 1581, last_xp_time = 1744046060
+2025-04-07 17:14:20,491 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:14:20,491 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:20,508 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:22,198 - leveling - INFO - Processing message from 911mohh (ID: 1330268197269540874) for XP
+2025-04-07 17:14:22,198 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:22,198 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:22,198 - database - INFO - add_xp called for 911mohh (ID: 1330268197269540874)
+2025-04-07 17:14:22,198 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:22,198 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:22,198 - database - INFO - Last XP time: 1744046054, Current time: 1744046062, Cooldown: 7
+2025-04-07 17:14:22,199 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:22,199 - database - INFO - Updating user 911mohh (1330268197269540874) - Current XP: 82, Adding: 5, New XP: 87
+2025-04-07 17:14:22,199 - database - INFO - Setting last_xp_time to 1744046062 (2025-04-07 17:14:22)
+2025-04-07 17:14:22,202 - database - INFO - Verification after update: XP = 87, last_xp_time = 1744046062
+2025-04-07 17:14:22,237 - database - INFO - Database commit successful for user 911mohh (1330268197269540874)
+2025-04-07 17:14:22,238 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:22,250 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:22,251 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:22,251 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:22,251 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:22,251 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:22,252 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:22,252 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:22,252 - database - INFO - Last XP time: 1744046055, Current time: 1744046062, Cooldown: 7
+2025-04-07 17:14:22,252 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:22,252 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 624, Adding: 5, New XP: 629
+2025-04-07 17:14:22,252 - database - INFO - Setting last_xp_time to 1744046062 (2025-04-07 17:14:22)
+2025-04-07 17:14:22,252 - database - INFO - Verification after update: XP = 629, last_xp_time = 1744046062
+2025-04-07 17:14:22,266 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:22,266 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:22,280 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:25,046 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:25,046 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:25,046 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:25,046 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:25,046 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:14:25,046 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:14:25,046 - database - INFO - Last XP time: 1744046058, Current time: 1744046065, Cooldown: 7
+2025-04-07 17:14:25,047 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:25,047 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2734, Adding: 11, New XP: 2745
+2025-04-07 17:14:25,047 - database - INFO - Setting last_xp_time to 1744046065 (2025-04-07 17:14:25)
+2025-04-07 17:14:25,047 - database - INFO - Verification after update: XP = 2745, last_xp_time = 1744046065
+2025-04-07 17:14:25,061 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:14:25,061 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 11
+2025-04-07 17:14:25,076 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:26,762 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:26,764 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:26,764 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:26,764 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:26,765 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:14:26,765 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:14:26,765 - database - INFO - Last XP time: 1744046060, Current time: 1744046066, Cooldown: 7
+2025-04-07 17:14:26,765 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:14:26,765 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:14:26,765 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:14:26,784 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:27,294 - leveling - INFO - Processing message from fiz1234_ (ID: 1351761385746337812) for XP
+2025-04-07 17:14:27,294 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:27,294 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:27,294 - database - INFO - add_xp called for fiz1234_ (ID: 1351761385746337812)
+2025-04-07 17:14:27,294 - database - INFO - Random XP amount generated: 10 (min: 5, max: 15)
+2025-04-07 17:14:27,295 - database - INFO - XP to add after all multipliers: 10
+2025-04-07 17:14:27,295 - database - INFO - Last XP time: 1744046021, Current time: 1744046067, Cooldown: 7
+2025-04-07 17:14:27,295 - database - INFO - Time since last XP: 46 seconds
+2025-04-07 17:14:27,295 - database - INFO - Updating user fiz1234_ (1351761385746337812) - Current XP: 455, Adding: 10, New XP: 465
+2025-04-07 17:14:27,295 - database - INFO - Setting last_xp_time to 1744046067 (2025-04-07 17:14:27)
+2025-04-07 17:14:27,295 - database - INFO - Verification after update: XP = 465, last_xp_time = 1744046067
+2025-04-07 17:14:27,311 - database - INFO - Database commit successful for user fiz1234_ (1351761385746337812)
+2025-04-07 17:14:27,311 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 10
+2025-04-07 17:14:27,328 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:28,086 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:14:28,086 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:28,086 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:28,086 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:14:28,086 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:14:28,087 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:14:28,087 - database - INFO - Last XP time: 1744046059, Current time: 1744046068, Cooldown: 7
+2025-04-07 17:14:28,087 - database - INFO - Time since last XP: 9 seconds
+2025-04-07 17:14:28,087 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2376, Adding: 7, New XP: 2383
+2025-04-07 17:14:28,087 - database - INFO - Setting last_xp_time to 1744046068 (2025-04-07 17:14:28)
+2025-04-07 17:14:28,087 - database - INFO - Verification after update: XP = 2383, last_xp_time = 1744046068
+2025-04-07 17:14:28,101 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:14:28,101 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 7
+2025-04-07 17:14:28,115 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:28,195 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:28,195 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:28,195 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:28,195 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:28,196 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:28,196 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:28,196 - database - INFO - Last XP time: 1744046058, Current time: 1744046068, Cooldown: 7
+2025-04-07 17:14:28,196 - database - INFO - Time since last XP: 10 seconds
+2025-04-07 17:14:28,196 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1471, Adding: 5, New XP: 1476
+2025-04-07 17:14:28,196 - database - INFO - Setting last_xp_time to 1744046068 (2025-04-07 17:14:28)
+2025-04-07 17:14:28,196 - database - INFO - Verification after update: XP = 1476, last_xp_time = 1744046068
+2025-04-07 17:14:28,212 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:14:28,213 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:28,231 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:29,497 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:29,497 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:29,497 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:29,497 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:29,497 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:29,498 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:29,498 - database - INFO - Last XP time: 1744046062, Current time: 1744046069, Cooldown: 7
+2025-04-07 17:14:29,498 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:29,498 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 629, Adding: 5, New XP: 634
+2025-04-07 17:14:29,498 - database - INFO - Setting last_xp_time to 1744046069 (2025-04-07 17:14:29)
+2025-04-07 17:14:29,498 - database - INFO - Verification after update: XP = 634, last_xp_time = 1744046069
+2025-04-07 17:14:29,511 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:29,511 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:29,524 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:31,143 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:31,143 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:31,143 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:31,143 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:31,144 - database - INFO - Random XP amount generated: 7 (min: 5, max: 15)
+2025-04-07 17:14:31,144 - database - INFO - XP to add after all multipliers: 7
+2025-04-07 17:14:31,144 - database - INFO - Last XP time: 1744046065, Current time: 1744046071, Cooldown: 7
+2025-04-07 17:14:31,144 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:14:31,144 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:14:31,144 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:14:31,274 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:31,329 - leveling - INFO - Processing message from khalgt (ID: 1040489561740034119) for XP
+2025-04-07 17:14:31,329 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:31,330 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:31,330 - database - INFO - add_xp called for khalgt (ID: 1040489561740034119)
+2025-04-07 17:14:31,330 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:31,330 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:31,330 - database - INFO - Last XP time: 1744044500, Current time: 1744046071, Cooldown: 7
+2025-04-07 17:14:31,330 - database - INFO - Time since last XP: 1571 seconds
+2025-04-07 17:14:31,330 - database - INFO - Updating user khalgt (1040489561740034119) - Current XP: 107, Adding: 5, New XP: 112
+2025-04-07 17:14:31,331 - database - INFO - Setting last_xp_time to 1744046071 (2025-04-07 17:14:31)
+2025-04-07 17:14:31,331 - database - INFO - Verification after update: XP = 112, last_xp_time = 1744046071
+2025-04-07 17:14:31,346 - database - INFO - Database commit successful for user khalgt (1040489561740034119)
+2025-04-07 17:14:31,346 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:31,364 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:31,379 - leveling - INFO - Processing message from 911mohh (ID: 1330268197269540874) for XP
+2025-04-07 17:14:31,380 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:31,380 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:31,380 - database - INFO - add_xp called for 911mohh (ID: 1330268197269540874)
+2025-04-07 17:14:31,380 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:31,381 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:31,381 - database - INFO - Last XP time: 1744046062, Current time: 1744046071, Cooldown: 7
+2025-04-07 17:14:31,381 - database - INFO - Time since last XP: 9 seconds
+2025-04-07 17:14:31,381 - database - INFO - Updating user 911mohh (1330268197269540874) - Current XP: 87, Adding: 5, New XP: 92
+2025-04-07 17:14:31,381 - database - INFO - Setting last_xp_time to 1744046071 (2025-04-07 17:14:31)
+2025-04-07 17:14:31,382 - database - INFO - Verification after update: XP = 92, last_xp_time = 1744046071
+2025-04-07 17:14:31,405 - database - INFO - Database commit successful for user 911mohh (1330268197269540874)
+2025-04-07 17:14:31,405 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:31,426 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:32,181 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:32,182 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:32,182 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:32,182 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:32,182 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:14:32,182 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:14:32,182 - database - INFO - Last XP time: 1744046060, Current time: 1744046072, Cooldown: 7
+2025-04-07 17:14:32,183 - database - INFO - Time since last XP: 12 seconds
+2025-04-07 17:14:32,183 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1581, Adding: 12, New XP: 1593
+2025-04-07 17:14:32,183 - database - INFO - Setting last_xp_time to 1744046072 (2025-04-07 17:14:32)
+2025-04-07 17:14:32,183 - database - INFO - Verification after update: XP = 1593, last_xp_time = 1744046072
+2025-04-07 17:14:32,200 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:14:32,200 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 12
+2025-04-07 17:14:32,215 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:34,425 - leveling - INFO - Processing message from simplybanks (ID: 1099674917160620112) for XP
+2025-04-07 17:14:34,425 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:34,425 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:34,425 - database - INFO - add_xp called for simplybanks (ID: 1099674917160620112)
+2025-04-07 17:14:34,425 - database - INFO - Random XP amount generated: 8 (min: 5, max: 15)
+2025-04-07 17:14:34,425 - database - INFO - XP to add after all multipliers: 8
+2025-04-07 17:14:34,425 - database - INFO - Last XP time: 1744046060, Current time: 1744046074, Cooldown: 7
+2025-04-07 17:14:34,426 - database - INFO - Time since last XP: 14 seconds
+2025-04-07 17:14:34,426 - database - INFO - Updating user simplybanks (1099674917160620112) - Current XP: 352, Adding: 8, New XP: 360
+2025-04-07 17:14:34,426 - database - INFO - Setting last_xp_time to 1744046074 (2025-04-07 17:14:34)
+2025-04-07 17:14:34,426 - database - INFO - Verification after update: XP = 360, last_xp_time = 1744046074
+2025-04-07 17:14:34,447 - database - INFO - Database commit successful for user simplybanks (1099674917160620112)
+2025-04-07 17:14:34,448 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 8
+2025-04-07 17:14:34,466 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:35,033 - leveling - INFO - Processing message from fiz1234_ (ID: 1351761385746337812) for XP
+2025-04-07 17:14:35,033 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:35,033 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:35,034 - database - INFO - add_xp called for fiz1234_ (ID: 1351761385746337812)
+2025-04-07 17:14:35,034 - database - INFO - Random XP amount generated: 6 (min: 5, max: 15)
+2025-04-07 17:14:35,034 - database - INFO - XP to add after all multipliers: 6
+2025-04-07 17:14:35,034 - database - INFO - Last XP time: 1744046067, Current time: 1744046075, Cooldown: 7
+2025-04-07 17:14:35,034 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:35,034 - database - INFO - Updating user fiz1234_ (1351761385746337812) - Current XP: 465, Adding: 6, New XP: 471
+2025-04-07 17:14:35,034 - database - INFO - Setting last_xp_time to 1744046075 (2025-04-07 17:14:35)
+2025-04-07 17:14:35,034 - database - INFO - Verification after update: XP = 471, last_xp_time = 1744046075
+2025-04-07 17:14:35,051 - database - INFO - Database commit successful for user fiz1234_ (1351761385746337812)
+2025-04-07 17:14:35,051 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 6
+2025-04-07 17:14:35,071 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:36,697 - investment_system - INFO - Running scheduled property update (hour 1)...
+2025-04-07 17:14:36,698 - investment_system - INFO - Starting property update process...
+2025-04-07 17:14:36,698 - investment_system - INFO - Property update complete: 10 properties for 5 users
+2025-04-07 17:14:36,698 - investment_system - INFO - Added 0.00 coins total, processed 0.00 total hours
+2025-04-07 17:14:36,698 - investment_system - INFO - Saved investment data for 5 users
+2025-04-07 17:14:36,698 - investment_system - INFO - Hourly update complete: 0 users updated, 0.00 total income added
+2025-04-07 17:14:36,900 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:36,900 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:36,900 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:36,900 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:36,900 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:14:36,901 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:14:36,901 - database - INFO - Last XP time: 1744046069, Current time: 1744046076, Cooldown: 7
+2025-04-07 17:14:36,901 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:36,901 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 634, Adding: 9, New XP: 643
+2025-04-07 17:14:36,901 - database - INFO - Setting last_xp_time to 1744046076 (2025-04-07 17:14:36)
+2025-04-07 17:14:36,901 - database - INFO - Verification after update: XP = 643, last_xp_time = 1744046076
+2025-04-07 17:14:36,916 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:36,916 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:14:36,934 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:37,054 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:37,054 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:37,054 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:37,054 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:37,054 - database - INFO - Random XP amount generated: 10 (min: 5, max: 15)
+2025-04-07 17:14:37,055 - database - INFO - XP to add after all multipliers: 10
+2025-04-07 17:14:37,055 - database - INFO - Last XP time: 1744046065, Current time: 1744046077, Cooldown: 7
+2025-04-07 17:14:37,055 - database - INFO - Time since last XP: 12 seconds
+2025-04-07 17:14:37,055 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2745, Adding: 10, New XP: 2755
+2025-04-07 17:14:37,055 - database - INFO - Setting last_xp_time to 1744046077 (2025-04-07 17:14:37)
+2025-04-07 17:14:37,055 - database - INFO - Verification after update: XP = 2755, last_xp_time = 1744046077
+2025-04-07 17:14:37,116 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:14:37,116 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 10
+2025-04-07 17:14:37,130 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:37,296 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:37,296 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:37,297 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:37,297 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:37,297 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:14:37,297 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:14:37,297 - database - INFO - Last XP time: 1744046068, Current time: 1744046077, Cooldown: 7
+2025-04-07 17:14:37,297 - database - INFO - Time since last XP: 9 seconds
+2025-04-07 17:14:37,297 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1476, Adding: 11, New XP: 1487
+2025-04-07 17:14:37,297 - database - INFO - Setting last_xp_time to 1744046077 (2025-04-07 17:14:37)
+2025-04-07 17:14:37,298 - database - INFO - Verification after update: XP = 1487, last_xp_time = 1744046077
+2025-04-07 17:14:37,318 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:14:37,319 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 11
+2025-04-07 17:14:37,336 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:38,966 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:38,966 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:38,967 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:38,967 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:38,967 - database - INFO - Random XP amount generated: 13 (min: 5, max: 15)
+2025-04-07 17:14:38,967 - database - INFO - XP to add after all multipliers: 13
+2025-04-07 17:14:38,967 - database - INFO - Last XP time: 1744046060, Current time: 1744046078, Cooldown: 7
+2025-04-07 17:14:38,967 - database - INFO - Time since last XP: 18 seconds
+2025-04-07 17:14:38,967 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 446, Adding: 13, New XP: 459
+2025-04-07 17:14:38,967 - database - INFO - Setting last_xp_time to 1744046078 (2025-04-07 17:14:38)
+2025-04-07 17:14:38,968 - database - INFO - Verification after update: XP = 459, last_xp_time = 1744046078
+2025-04-07 17:14:38,982 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:14:38,982 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 13
+2025-04-07 17:14:39,001 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:39,212 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:39,212 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:39,212 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:39,212 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:39,212 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:14:39,213 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:14:39,213 - database - INFO - Last XP time: 1744046072, Current time: 1744046079, Cooldown: 7
+2025-04-07 17:14:39,213 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:39,213 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1593, Adding: 14, New XP: 1607
+2025-04-07 17:14:39,213 - database - INFO - Setting last_xp_time to 1744046079 (2025-04-07 17:14:39)
+2025-04-07 17:14:39,213 - database - INFO - Verification after update: XP = 1607, last_xp_time = 1744046079
+2025-04-07 17:14:39,226 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:14:39,227 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 14
+2025-04-07 17:14:39,239 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:43,515 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:43,515 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:43,515 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:43,515 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:43,515 - database - INFO - Random XP amount generated: 11 (min: 5, max: 15)
+2025-04-07 17:14:43,515 - database - INFO - XP to add after all multipliers: 11
+2025-04-07 17:14:43,516 - database - INFO - Last XP time: 1744046076, Current time: 1744046083, Cooldown: 7
+2025-04-07 17:14:43,516 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:43,516 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 643, Adding: 11, New XP: 654
+2025-04-07 17:14:43,516 - database - INFO - Setting last_xp_time to 1744046083 (2025-04-07 17:14:43)
+2025-04-07 17:14:43,516 - database - INFO - Verification after update: XP = 654, last_xp_time = 1744046083
+2025-04-07 17:14:43,533 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:43,534 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 11
+2025-04-07 17:14:43,547 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:43,603 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:43,603 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:43,603 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:43,603 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:43,603 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:43,604 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:43,604 - database - INFO - Last XP time: 1744046077, Current time: 1744046083, Cooldown: 7
+2025-04-07 17:14:43,604 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:14:43,604 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:14:43,604 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:14:43,616 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:45,725 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:45,725 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:45,725 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:45,725 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:45,725 - database - INFO - Random XP amount generated: 14 (min: 5, max: 15)
+2025-04-07 17:14:45,726 - database - INFO - XP to add after all multipliers: 14
+2025-04-07 17:14:45,726 - database - INFO - Last XP time: 1744046079, Current time: 1744046085, Cooldown: 7
+2025-04-07 17:14:45,726 - database - INFO - Time since last XP: 6 seconds
+2025-04-07 17:14:45,726 - database - INFO - User is on cooldown. Needs to wait 1 more seconds
+2025-04-07 17:14:45,726 - leveling - INFO - XP add result: User updated: False, Leveled up: False, XP earned: 0
+2025-04-07 17:14:45,742 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:45,742 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:45,743 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:45,743 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:45,743 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:45,743 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:45,743 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:45,743 - database - INFO - Last XP time: 1744046077, Current time: 1744046085, Cooldown: 7
+2025-04-07 17:14:45,743 - database - INFO - Time since last XP: 8 seconds
+2025-04-07 17:14:45,743 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1487, Adding: 15, New XP: 1502
+2025-04-07 17:14:45,743 - database - INFO - Setting last_xp_time to 1744046085 (2025-04-07 17:14:45)
+2025-04-07 17:14:45,744 - database - INFO - Verification after update: XP = 1502, last_xp_time = 1744046085
+2025-04-07 17:14:45,756 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:14:45,756 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:45,771 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:46,287 - leveling - INFO - Processing message from fiz1234_ (ID: 1351761385746337812) for XP
+2025-04-07 17:14:46,287 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:46,287 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:46,287 - database - INFO - add_xp called for fiz1234_ (ID: 1351761385746337812)
+2025-04-07 17:14:46,288 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:14:46,288 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:14:46,288 - database - INFO - Last XP time: 1744046075, Current time: 1744046086, Cooldown: 7
+2025-04-07 17:14:46,288 - database - INFO - Time since last XP: 11 seconds
+2025-04-07 17:14:46,288 - database - INFO - Updating user fiz1234_ (1351761385746337812) - Current XP: 471, Adding: 9, New XP: 480
+2025-04-07 17:14:46,288 - database - INFO - Setting last_xp_time to 1744046086 (2025-04-07 17:14:46)
+2025-04-07 17:14:46,288 - database - INFO - Verification after update: XP = 480, last_xp_time = 1744046086
+2025-04-07 17:14:46,413 - database - INFO - Database commit successful for user fiz1234_ (1351761385746337812)
+2025-04-07 17:14:46,413 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:14:46,438 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:47,755 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:14:47,756 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:47,756 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:47,756 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:14:47,756 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:47,756 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:47,756 - database - INFO - Last XP time: 1744046068, Current time: 1744046087, Cooldown: 7
+2025-04-07 17:14:47,756 - database - INFO - Time since last XP: 19 seconds
+2025-04-07 17:14:47,756 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2383, Adding: 15, New XP: 2398
+2025-04-07 17:14:47,756 - database - INFO - Setting last_xp_time to 1744046087 (2025-04-07 17:14:47)
+2025-04-07 17:14:47,757 - database - INFO - Verification after update: XP = 2398, last_xp_time = 1744046087
+2025-04-07 17:14:47,776 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:14:47,776 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:47,796 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:49,156 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:49,156 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:49,156 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:49,156 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:49,157 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:49,157 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:49,157 - database - INFO - Last XP time: 1744046078, Current time: 1744046089, Cooldown: 7
+2025-04-07 17:14:49,157 - database - INFO - Time since last XP: 11 seconds
+2025-04-07 17:14:49,157 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 459, Adding: 15, New XP: 474
+2025-04-07 17:14:49,157 - database - INFO - Setting last_xp_time to 1744046089 (2025-04-07 17:14:49)
+2025-04-07 17:14:49,157 - database - INFO - Verification after update: XP = 474, last_xp_time = 1744046089
+2025-04-07 17:14:49,172 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:14:49,172 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:49,187 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:50,330 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:50,330 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:50,330 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:50,330 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:50,330 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:50,330 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:50,331 - database - INFO - Last XP time: 1744046077, Current time: 1744046090, Cooldown: 7
+2025-04-07 17:14:50,331 - database - INFO - Time since last XP: 13 seconds
+2025-04-07 17:14:50,331 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2755, Adding: 5, New XP: 2760
+2025-04-07 17:14:50,331 - database - INFO - Setting last_xp_time to 1744046090 (2025-04-07 17:14:50)
+2025-04-07 17:14:50,331 - database - INFO - Verification after update: XP = 2760, last_xp_time = 1744046090
+2025-04-07 17:14:50,344 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:14:50,345 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:50,363 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:50,634 - leveling - INFO - Processing message from crowicgt_97492 (ID: 1308527904497340467) for XP
+2025-04-07 17:14:50,635 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:50,635 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:50,635 - database - INFO - add_xp called for crowicgt_97492 (ID: 1308527904497340467)
+2025-04-07 17:14:50,635 - database - INFO - Random XP amount generated: 12 (min: 5, max: 15)
+2025-04-07 17:14:50,635 - database - INFO - XP to add after all multipliers: 12
+2025-04-07 17:14:50,635 - database - INFO - Last XP time: 1744033850, Current time: 1744046090, Cooldown: 7
+2025-04-07 17:14:50,635 - database - INFO - Time since last XP: 12240 seconds
+2025-04-07 17:14:50,635 - database - INFO - Updating user crowicgt_97492 (1308527904497340467) - Current XP: 849, Adding: 12, New XP: 861
+2025-04-07 17:14:50,636 - database - INFO - Setting last_xp_time to 1744046090 (2025-04-07 17:14:50)
+2025-04-07 17:14:50,636 - database - INFO - Verification after update: XP = 861, last_xp_time = 1744046090
+2025-04-07 17:14:50,649 - database - INFO - Database commit successful for user crowicgt_97492 (1308527904497340467)
+2025-04-07 17:14:50,650 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 12
+2025-04-07 17:14:51,846 - leveling - INFO - Processing message from tansfreak (ID: 1354492257150963805) for XP
+2025-04-07 17:14:51,846 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:51,846 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:51,846 - database - INFO - add_xp called for tansfreak (ID: 1354492257150963805)
+2025-04-07 17:14:51,847 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:14:51,847 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:14:51,847 - database - INFO - Last XP time: 1744045394, Current time: 1744046091, Cooldown: 7
+2025-04-07 17:14:51,847 - database - INFO - Time since last XP: 697 seconds
+2025-04-07 17:14:51,847 - database - INFO - Updating user tansfreak (1354492257150963805) - Current XP: 130, Adding: 9, New XP: 139
+2025-04-07 17:14:51,847 - database - INFO - Setting last_xp_time to 1744046091 (2025-04-07 17:14:51)
+2025-04-07 17:14:51,847 - database - INFO - Verification after update: XP = 139, last_xp_time = 1744046091
+2025-04-07 17:14:51,865 - database - INFO - Database commit successful for user tansfreak (1354492257150963805)
+2025-04-07 17:14:51,865 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:14:51,881 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:52,336 - leveling - INFO - Processing message from shaque9290 (ID: 1035842144511987732) for XP
+2025-04-07 17:14:52,336 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:52,337 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:52,337 - database - INFO - add_xp called for shaque9290 (ID: 1035842144511987732)
+2025-04-07 17:14:52,337 - database - INFO - Random XP amount generated: 5 (min: 5, max: 15)
+2025-04-07 17:14:52,337 - database - INFO - XP to add after all multipliers: 5
+2025-04-07 17:14:52,337 - database - INFO - Last XP time: 1744046085, Current time: 1744046092, Cooldown: 7
+2025-04-07 17:14:52,337 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:52,337 - database - INFO - Updating user shaque9290 (1035842144511987732) - Current XP: 1502, Adding: 5, New XP: 1507
+2025-04-07 17:14:52,337 - database - INFO - Setting last_xp_time to 1744046092 (2025-04-07 17:14:52)
+2025-04-07 17:14:52,338 - database - INFO - Verification after update: XP = 1507, last_xp_time = 1744046092
+2025-04-07 17:14:52,357 - database - INFO - Database commit successful for user shaque9290 (1035842144511987732)
+2025-04-07 17:14:52,357 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 5
+2025-04-07 17:14:52,375 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:54,266 - leveling - INFO - Processing message from daveelyass (ID: 1174807074505502721) for XP
+2025-04-07 17:14:54,266 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:54,266 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:54,266 - database - INFO - add_xp called for daveelyass (ID: 1174807074505502721)
+2025-04-07 17:14:54,266 - database - INFO - Random XP amount generated: 10 (min: 5, max: 15)
+2025-04-07 17:14:54,266 - database - INFO - XP to add after all multipliers: 10
+2025-04-07 17:14:54,267 - database - INFO - Last XP time: 1744046057, Current time: 1744046094, Cooldown: 7
+2025-04-07 17:14:54,267 - database - INFO - Time since last XP: 37 seconds
+2025-04-07 17:14:54,267 - database - INFO - Updating user daveelyass (1174807074505502721) - Current XP: 33, Adding: 10, New XP: 43
+2025-04-07 17:14:54,267 - database - INFO - Setting last_xp_time to 1744046094 (2025-04-07 17:14:54)
+2025-04-07 17:14:54,267 - database - INFO - Verification after update: XP = 43, last_xp_time = 1744046094
+2025-04-07 17:14:54,301 - database - INFO - Database commit successful for user daveelyass (1174807074505502721)
+2025-04-07 17:14:54,302 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 10
+2025-04-07 17:14:54,317 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:54,498 - leveling - INFO - Processing message from nandmonmon (ID: 1041316274275373057) for XP
+2025-04-07 17:14:54,498 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:54,499 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:54,499 - database - INFO - add_xp called for nandmonmon (ID: 1041316274275373057)
+2025-04-07 17:14:54,499 - database - INFO - Random XP amount generated: 10 (min: 5, max: 15)
+2025-04-07 17:14:54,499 - database - INFO - XP to add after all multipliers: 10
+2025-04-07 17:14:54,499 - database - INFO - Last XP time: 1744046083, Current time: 1744046094, Cooldown: 7
+2025-04-07 17:14:54,499 - database - INFO - Time since last XP: 11 seconds
+2025-04-07 17:14:54,499 - database - INFO - Updating user nandmonmon (1041316274275373057) - Current XP: 654, Adding: 10, New XP: 664
+2025-04-07 17:14:54,499 - database - INFO - Setting last_xp_time to 1744046094 (2025-04-07 17:14:54)
+2025-04-07 17:14:54,500 - database - INFO - Verification after update: XP = 664, last_xp_time = 1744046094
+2025-04-07 17:14:54,515 - database - INFO - Database commit successful for user nandmonmon (1041316274275373057)
+2025-04-07 17:14:54,515 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 10
+2025-04-07 17:14:54,534 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:54,639 - leveling - INFO - Processing message from 911mohh (ID: 1330268197269540874) for XP
+2025-04-07 17:14:54,639 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:54,640 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:54,640 - database - INFO - add_xp called for 911mohh (ID: 1330268197269540874)
+2025-04-07 17:14:54,640 - database - INFO - Random XP amount generated: 9 (min: 5, max: 15)
+2025-04-07 17:14:54,640 - database - INFO - XP to add after all multipliers: 9
+2025-04-07 17:14:54,640 - database - INFO - Last XP time: 1744046071, Current time: 1744046094, Cooldown: 7
+2025-04-07 17:14:54,640 - database - INFO - Time since last XP: 23 seconds
+2025-04-07 17:14:54,640 - database - INFO - Updating user 911mohh (1330268197269540874) - Current XP: 92, Adding: 9, New XP: 101
+2025-04-07 17:14:54,640 - database - INFO - Setting last_xp_time to 1744046094 (2025-04-07 17:14:54)
+2025-04-07 17:14:54,641 - database - INFO - Verification after update: XP = 101, last_xp_time = 1744046094
+2025-04-07 17:14:54,655 - database - INFO - Database commit successful for user 911mohh (1330268197269540874)
+2025-04-07 17:14:54,655 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 9
+2025-04-07 17:14:54,672 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:56,250 - leveling - INFO - Processing message from fazzy088 (ID: 1353590720685936680) for XP
+2025-04-07 17:14:56,250 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:56,250 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:56,250 - database - INFO - add_xp called for fazzy088 (ID: 1353590720685936680)
+2025-04-07 17:14:56,250 - database - INFO - Random XP amount generated: 10 (min: 5, max: 15)
+2025-04-07 17:14:56,250 - database - INFO - XP to add after all multipliers: 10
+2025-04-07 17:14:56,250 - database - INFO - Last XP time: 1744046087, Current time: 1744046096, Cooldown: 7
+2025-04-07 17:14:56,251 - database - INFO - Time since last XP: 9 seconds
+2025-04-07 17:14:56,251 - database - INFO - Updating user fazzy088 (1353590720685936680) - Current XP: 2398, Adding: 10, New XP: 2408
+2025-04-07 17:14:56,251 - database - INFO - Setting last_xp_time to 1744046096 (2025-04-07 17:14:56)
+2025-04-07 17:14:56,251 - database - INFO - Verification after update: XP = 2408, last_xp_time = 1744046096
+2025-04-07 17:14:56,264 - database - INFO - Database commit successful for user fazzy088 (1353590720685936680)
+2025-04-07 17:14:56,265 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 10
+2025-04-07 17:14:56,282 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:56,707 - leveling - INFO - Processing message from yorchigt (ID: 891333489838919681) for XP
+2025-04-07 17:14:56,707 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:56,707 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:56,707 - database - INFO - add_xp called for yorchigt (ID: 891333489838919681)
+2025-04-07 17:14:56,707 - database - INFO - Random XP amount generated: 15 (min: 5, max: 15)
+2025-04-07 17:14:56,707 - database - INFO - XP to add after all multipliers: 15
+2025-04-07 17:14:56,707 - database - INFO - Last XP time: 1744046089, Current time: 1744046096, Cooldown: 7
+2025-04-07 17:14:56,708 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:56,708 - database - INFO - Updating user yorchigt (891333489838919681) - Current XP: 474, Adding: 15, New XP: 489
+2025-04-07 17:14:56,708 - database - INFO - Setting last_xp_time to 1744046096 (2025-04-07 17:14:56)
+2025-04-07 17:14:56,708 - database - INFO - Verification after update: XP = 489, last_xp_time = 1744046096
+2025-04-07 17:14:56,719 - database - INFO - Database commit successful for user yorchigt (891333489838919681)
+2025-04-07 17:14:56,719 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 15
+2025-04-07 17:14:56,733 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:57,324 - leveling - INFO - Processing message from snoopdog0169 (ID: 1357371290264146011) for XP
+2025-04-07 17:14:57,324 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:57,324 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:57,324 - database - INFO - add_xp called for snoopdog0169 (ID: 1357371290264146011)
+2025-04-07 17:14:57,324 - database - INFO - Random XP amount generated: 8 (min: 5, max: 15)
+2025-04-07 17:14:57,324 - database - INFO - XP to add after all multipliers: 8
+2025-04-07 17:14:57,324 - database - INFO - Last XP time: 1744046090, Current time: 1744046097, Cooldown: 7
+2025-04-07 17:14:57,325 - database - INFO - Time since last XP: 7 seconds
+2025-04-07 17:14:57,325 - database - INFO - Updating user snoopdog0169 (1357371290264146011) - Current XP: 2760, Adding: 8, New XP: 2768
+2025-04-07 17:14:57,325 - database - INFO - Setting last_xp_time to 1744046097 (2025-04-07 17:14:57)
+2025-04-07 17:14:57,325 - database - INFO - Verification after update: XP = 2768, last_xp_time = 1744046097
+2025-04-07 17:14:57,338 - database - INFO - Database commit successful for user snoopdog0169 (1357371290264146011)
+2025-04-07 17:14:57,339 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 8
+2025-04-07 17:14:57,355 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:58,365 - leveling - INFO - Processing message from nothamoodie (ID: 777842110589042718) for XP
+2025-04-07 17:14:58,365 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:58,365 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:58,365 - database - INFO - add_xp called for nothamoodie (ID: 777842110589042718)
+2025-04-07 17:14:58,366 - database - INFO - Random XP amount generated: 6 (min: 5, max: 15)
+2025-04-07 17:14:58,366 - database - INFO - XP to add after all multipliers: 6
+2025-04-07 17:14:58,366 - database - INFO - Last XP time: 1744046079, Current time: 1744046098, Cooldown: 7
+2025-04-07 17:14:58,366 - database - INFO - Time since last XP: 19 seconds
+2025-04-07 17:14:58,366 - database - INFO - Updating user nothamoodie (777842110589042718) - Current XP: 1607, Adding: 6, New XP: 1613
+2025-04-07 17:14:58,366 - database - INFO - Setting last_xp_time to 1744046098 (2025-04-07 17:14:58)
+2025-04-07 17:14:58,366 - database - INFO - Verification after update: XP = 1613, last_xp_time = 1744046098
+2025-04-07 17:14:58,380 - database - INFO - Database commit successful for user nothamoodie (777842110589042718)
+2025-04-07 17:14:58,380 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 6
+2025-04-07 17:14:58,400 - chat_activity - INFO - Activity event saved with ID 4
+2025-04-07 17:14:59,310 - leveling - INFO - Processing message from tenttiko (ID: 1058521654579449886) for XP
+2025-04-07 17:14:59,310 - leveling - INFO - Multipliers - XP: 1.0x, Coins: 1.0x
+2025-04-07 17:14:59,310 - leveling - INFO - XP Enabled: 1
+2025-04-07 17:14:59,311 - database - INFO - add_xp called for tenttiko (ID: 1058521654579449886)
+2025-04-07 17:14:59,311 - database - INFO - Random XP amount generated: 6 (min: 5, max: 15)
+2025-04-07 17:14:59,311 - database - INFO - XP to add after all multipliers: 6
+2025-04-07 17:14:59,311 - database - INFO - Last XP time: 1743973638, Current time: 1744046099, Cooldown: 7
+2025-04-07 17:14:59,311 - database - INFO - Time since last XP: 72461 seconds
+2025-04-07 17:14:59,311 - database - INFO - Updating user tenttiko (1058521654579449886) - Current XP: 2741, Adding: 6, New XP: 2747
+2025-04-07 17:14:59,311 - database - INFO - Setting last_xp_time to 1744046099 (2025-04-07 17:14:59)
+2025-04-07 17:14:59,311 - database - INFO - Verification after update: XP = 2747, last_xp_time = 1744046099
+2025-04-07 17:14:59,324 - database - INFO - Database commit successful for user tenttiko (1058521654579449886)
+2025-04-07 17:14:59,324 - leveling - INFO - XP add result: User updated: True, Leveled up: False, XP earned: 6
+2025-04-07 17:14:59,339 - chat_activity - INFO - Activity event saved with ID 4
